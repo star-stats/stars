@@ -21,9 +21,9 @@ jobs:
         name: Track
         uses: fbuireu/github-star-tracker@v1
         with:
-          data_branch: data
+          data-branch: data
           visibility: public
           include-forks: true
-          include_charts: true
-          only-repos: dockur,qemus,dobtc,vdsm,action-pack
+          include-charts: true
+          only-repos: dockur/*,qemus/*,dobtc/*,vdsm/*,action-pack/*
           github-token: ${{ secrets.STAR_TRACKER_TOKEN }}
