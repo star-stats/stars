@@ -1,0 +1,17 @@
+{
+  "snapshots": [
+    {
+      "timestamp": "2026-06-23T23:16:29.503Z",
+      "totalStars": 51774,
+      "repos": [
+        {
+          "fullName": "dockur/windows",
+          "name": "windows",
+          "owner": "dockur",
+          "stars": 51774
+        }
+      ]
+    }
+  ],
+  "starsAtLastNotification": 51774
+}
