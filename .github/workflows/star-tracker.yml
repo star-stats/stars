@@ -12,7 +12,14 @@ jobs:
   track:
     runs-on: ubuntu-latest
     steps:
-      - uses: fbuireu/github-star-tracker@v1
+      -
+        name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      -
+        name: Track
+        uses: fbuireu/github-star-tracker@v1
         with:
           include-forks: true
           github-token: ${{ secrets.STAR_TRACKER_TOKEN }}
