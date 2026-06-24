@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  track:
+  Track:
     runs-on: ubuntu-latest
     steps:
       -
@@ -26,8 +26,8 @@ jobs:
           visibility: public
           include-forks: true
           include-charts: true
-          smart_sampling: true
-          chart_line_width: 2
-          chart_line_color: #6b63ff
+          smart-sampling: true
+          chart-line-width: 2
+          chart-line-color: #6b63ff
           only-orgs: dockur,qemus,dobtc,vdsm,action-pack
           github-token: ${{ secrets.STAR_TRACKER_TOKEN }}
