@@ -8,8 +8,8 @@
       to { opacity: 1; }
     }
     .data-line-0 {
-      stroke-dasharray: 1238;
-      stroke-dashoffset: 1238;
+      stroke-dasharray: 1271;
+      stroke-dashoffset: 1271;
       animation: drawLine 2s ease-out forwards;
     }
     .data-point {
@@ -47,19 +47,21 @@
   </g>
   <g class="x-axis">
     <text x="60" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 23</text>
-    <text x="296.66666666666663" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
-    <text x="533.3333333333333" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="237.5" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="415" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="592.5" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
     <text x="770" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
   </g>
   <line x1="60" y1="50" x2="60" y2="350" class="chart-axis" stroke-width="1" />
   <line x1="60" y1="350" x2="770" y2="350" class="chart-axis" stroke-width="1" />
-  <path d="M60,350 C91.55555555555556,350 233.55555555555551,384.6666666666667 296.66666666666663,350 C359.7777777777777,315.3333333333333 470.2222222222221,124.66666666666666 533.3333333333333,90 C596.4444444444443,55.333333333333336 738.4444444444445,90 770,90 L770,350 L60,350 Z" fill="#dfb317" fill-opacity="0.1" />
-  <path d="M60,350 C91.55555555555556,350 233.55555555555551,384.6666666666667 296.66666666666663,350 C359.7777777777777,315.3333333333333 470.2222222222221,124.66666666666666 533.3333333333333,90 C596.4444444444443,55.333333333333336 738.4444444444445,90 770,90" fill="none" stroke="#dfb317" stroke-width="2.5" class="data-line-0" />
+  <path d="M60,350 C83.66666666666667,350 190.16666666666666,384.6666666666667 237.5,350 C284.8333333333333,315.3333333333333 367.6666666666667,124.66666666666666 415,90 C462.3333333333333,55.333333333333336 545.1666666666666,90 592.5,90 C639.8333333333334,90 746.3333333333334,90 770,90 L770,350 L60,350 Z" fill="#dfb317" fill-opacity="0.1" />
+  <path d="M60,350 C83.66666666666667,350 190.16666666666666,384.6666666666667 237.5,350 C284.8333333333333,315.3333333333333 367.6666666666667,124.66666666666666 415,90 C462.3333333333333,55.333333333333336 545.1666666666666,90 592.5,90 C639.8333333333334,90 746.3333333333334,90 770,90" fill="none" stroke="#dfb317" stroke-width="2" class="data-line-0" />
   <g class="points">
     
     <circle cx="60" cy="350" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.50s" />
-    <circle cx="296.66666666666663" cy="350" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.55s" />
-    <circle cx="533.3333333333333" cy="90" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.60s" />
-    <circle cx="770" cy="90" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.65s" />
+    <circle cx="237.5" cy="350" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.55s" />
+    <circle cx="415" cy="90" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.60s" />
+    <circle cx="592.5" cy="90" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.65s" />
+    <circle cx="770" cy="90" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.70s" />
   </g>
 </svg>
