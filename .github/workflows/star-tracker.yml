@@ -27,10 +27,11 @@ jobs:
           include-forks: true
           include-charts: true
           smart-sampling: true
-          smart-sampling-pages: 50
+          smart-sampling-pages: 30
           chart-max-points: 0
-          chart-y-axis-side: right
           chart-line-width: 2
           chart-line-color: #6b63ff
+          chart-y-axis-side: right
+          chart-smoothing: false 
           only-orgs: dockur,qemus,dobtc,vdsm,action-pack
           github-token: ${{ secrets.STAR_TRACKER_TOKEN }}
