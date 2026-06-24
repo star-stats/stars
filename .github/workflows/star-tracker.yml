@@ -21,9 +21,13 @@ jobs:
         name: Track
         uses: fbuireu/github-star-tracker@v1
         with:
+          top-repos: 500
           data-branch: data
           visibility: public
           include-forks: true
           include-charts: true
+          smart_sampling: true
+          chart_line_width: 2
+          chart_line_color: #6b63ff
           only-orgs: dockur,qemus,dobtc,vdsm,action-pack
           github-token: ${{ secrets.STAR_TRACKER_TOKEN }}
