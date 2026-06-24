@@ -25,5 +25,5 @@ jobs:
           visibility: public
           include-forks: true
           include-charts: true
-          only-repos: windows,qemus/*,dobtc/*,vdsm/*,action-pack/*
+          only-orgs: dockur,qemus,dobtc,vdsm,action-pack
           github-token: ${{ secrets.STAR_TRACKER_TOKEN }}
