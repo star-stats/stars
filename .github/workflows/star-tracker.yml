@@ -28,6 +28,8 @@ jobs:
           include-charts: true
           smart-sampling: true
           smart-sampling-pages: 50
+          chart-max-points: 0
+          chart-y-axis-side: right
           chart-line-width: 2
           chart-line-color: #6b63ff
           only-orgs: dockur,qemus,dobtc,vdsm,action-pack
