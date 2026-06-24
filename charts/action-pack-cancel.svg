@@ -8,8 +8,8 @@
       to { opacity: 1; }
     }
     .data-line-0 {
-      stroke-dasharray: 1251;
-      stroke-dashoffset: 1251;
+      stroke-dasharray: 1245;
+      stroke-dashoffset: 1245;
       animation: drawLine 2s ease-out forwards;
     }
     .data-point {
@@ -30,21 +30,21 @@
     }
   </style>
   <rect width="800" height="400" class="chart-bg" />
-  <text x="400" y="34" text-anchor="middle" class="chart-text" font-size="16" font-weight="bold" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">dockur/tor Star History</text>
+  <text x="400" y="34" text-anchor="middle" class="chart-text" font-size="16" font-weight="bold" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">action-pack/cancel Star History</text>
   
   <g class="grid">
     <line x1="60" y1="350" x2="770" y2="350" class="chart-grid" stroke-opacity="0.3" />
     <text x="52" y="354" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">0</text>
     <line x1="60" y1="283.33333333333337" x2="770" y2="283.33333333333337" class="chart-grid" stroke-opacity="0.3" />
-    <text x="52" y="287.33333333333337" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">50</text>
+    <text x="52" y="287.33333333333337" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2</text>
     <line x1="60" y1="216.66666666666669" x2="770" y2="216.66666666666669" class="chart-grid" stroke-opacity="0.3" />
-    <text x="52" y="220.66666666666669" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">100</text>
+    <text x="52" y="220.66666666666669" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">4</text>
     <line x1="60" y1="150" x2="770" y2="150" class="chart-grid" stroke-opacity="0.3" />
-    <text x="52" y="154" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">150</text>
+    <text x="52" y="154" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">6</text>
     <line x1="60" y1="83.33333333333337" x2="770" y2="83.33333333333337" class="chart-grid" stroke-opacity="0.3" />
-    <text x="52" y="87.33333333333337" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">200</text>
+    <text x="52" y="87.33333333333337" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">8</text>
     <line x1="60" y1="16.66666666666663" x2="770" y2="16.66666666666663" class="chart-grid" stroke-opacity="0.3" />
-    <text x="52" y="20.66666666666663" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">250</text>
+    <text x="52" y="20.66666666666663" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">10</text>
   </g>
   <g class="milestones">
     
@@ -57,13 +57,13 @@
   </g>
   <line x1="60" y1="50" x2="60" y2="350" class="chart-axis" stroke-width="1" />
   <line x1="60" y1="350" x2="770" y2="350" class="chart-axis" stroke-width="1" />
-  <path d="M60,350 C91.55555555555556,350 233.55555555555551,386.26666666666665 296.66666666666663,350 C359.7777777777777,313.73333333333335 470.2222222222221,114.26666666666668 533.3333333333333,78 C596.4444444444443,41.73333333333333 738.4444444444445,78 770,78 L770,350 L60,350 Z" fill="#dfb317" fill-opacity="0.1" />
-  <path d="M60,350 C91.55555555555556,350 233.55555555555551,386.26666666666665 296.66666666666663,350 C359.7777777777777,313.73333333333335 470.2222222222221,114.26666666666668 533.3333333333333,78 C596.4444444444443,41.73333333333333 738.4444444444445,78 770,78" fill="none" stroke="#dfb317" stroke-width="2.5" class="data-line-0" />
+  <path d="M60,350 C91.55555555555556,350 233.55555555555551,385.55555555555554 296.66666666666663,350 C359.7777777777777,314.44444444444446 470.2222222222221,118.88888888888891 533.3333333333333,83.33333333333337 C596.4444444444443,47.77777777777782 738.4444444444445,83.33333333333337 770,83.33333333333337 L770,350 L60,350 Z" fill="#dfb317" fill-opacity="0.1" />
+  <path d="M60,350 C91.55555555555556,350 233.55555555555551,385.55555555555554 296.66666666666663,350 C359.7777777777777,314.44444444444446 470.2222222222221,118.88888888888891 533.3333333333333,83.33333333333337 C596.4444444444443,47.77777777777782 738.4444444444445,83.33333333333337 770,83.33333333333337" fill="none" stroke="#dfb317" stroke-width="2.5" class="data-line-0" />
   <g class="points">
     
     <circle cx="60" cy="350" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.50s" />
     <circle cx="296.66666666666663" cy="350" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.55s" />
-    <circle cx="533.3333333333333" cy="78" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.60s" />
-    <circle cx="770" cy="78" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.65s" />
+    <circle cx="533.3333333333333" cy="83.33333333333337" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.60s" />
+    <circle cx="770" cy="83.33333333333337" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.65s" />
   </g>
 </svg>

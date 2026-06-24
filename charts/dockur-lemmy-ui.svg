@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <style>
+    @keyframes drawLine {
+      to { stroke-dashoffset: 0; }
+    }
+    @keyframes fadeInPoint {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    .data-line-0 {
+      stroke-dasharray: 1241;
+      stroke-dashoffset: 1241;
+      animation: drawLine 2s ease-out forwards;
+    }
+    .data-point {
+      opacity: 0;
+      animation: fadeInPoint 0.5s ease-out forwards;
+    }
+    .chart-bg { fill: #fff; }
+    .chart-text { fill: #24292e; }
+    .chart-muted { fill: #6a737d; }
+    .chart-grid { stroke: #eee; }
+    .chart-axis { stroke: #6a737d; }
+    @media (prefers-color-scheme: dark) {
+      .chart-bg { fill: #0d1117; }
+      .chart-text { fill: #e6edf3; }
+      .chart-muted { fill: #8b949e; }
+      .chart-grid { stroke: #21262d; }
+      .chart-axis { stroke: #8b949e; }
+    }
+  </style>
+  <rect width="800" height="400" class="chart-bg" />
+  <text x="400" y="34" text-anchor="middle" class="chart-text" font-size="16" font-weight="bold" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">dockur/lemmy-ui Star History</text>
+  
+  <g class="grid">
+    <line x1="60" y1="350" x2="770" y2="350" class="chart-grid" stroke-opacity="0.3" />
+    <text x="52" y="354" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">0</text>
+    <line x1="60" y1="287.5" x2="770" y2="287.5" class="chart-grid" stroke-opacity="0.3" />
+    <text x="52" y="291.5" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">5</text>
+    <line x1="60" y1="225" x2="770" y2="225" class="chart-grid" stroke-opacity="0.3" />
+    <text x="52" y="229" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">10</text>
+    <line x1="60" y1="162.5" x2="770" y2="162.5" class="chart-grid" stroke-opacity="0.3" />
+    <text x="52" y="166.5" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">15</text>
+    <line x1="60" y1="100" x2="770" y2="100" class="chart-grid" stroke-opacity="0.3" />
+    <text x="52" y="104" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">20</text>
+    <line x1="60" y1="37.5" x2="770" y2="37.5" class="chart-grid" stroke-opacity="0.3" />
+    <text x="52" y="41.5" text-anchor="end" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">25</text>
+  </g>
+  <g class="milestones">
+    
+  </g>
+  <g class="x-axis">
+    <text x="60" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 23</text>
+    <text x="296.66666666666663" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="533.3333333333333" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="770" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+  </g>
+  <line x1="60" y1="50" x2="60" y2="350" class="chart-axis" stroke-width="1" />
+  <line x1="60" y1="350" x2="770" y2="350" class="chart-axis" stroke-width="1" />
+  <path d="M60,350 C91.55555555555556,350 233.55555555555551,385 296.66666666666663,350 C359.7777777777777,315 470.2222222222221,122.5 533.3333333333333,87.5 C596.4444444444443,52.5 738.4444444444445,87.5 770,87.5 L770,350 L60,350 Z" fill="#dfb317" fill-opacity="0.1" />
+  <path d="M60,350 C91.55555555555556,350 233.55555555555551,385 296.66666666666663,350 C359.7777777777777,315 470.2222222222221,122.5 533.3333333333333,87.5 C596.4444444444443,52.5 738.4444444444445,87.5 770,87.5" fill="none" stroke="#dfb317" stroke-width="2.5" class="data-line-0" />
+  <g class="points">
+    
+    <circle cx="60" cy="350" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.50s" />
+    <circle cx="296.66666666666663" cy="350" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.55s" />
+    <circle cx="533.3333333333333" cy="87.5" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.60s" />
+    <circle cx="770" cy="87.5" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.65s" />
+  </g>
+</svg>
