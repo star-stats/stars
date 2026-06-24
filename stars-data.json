@@ -11,7 +11,19 @@
           "stars": 51774
         }
       ]
+    },
+    {
+      "timestamp": "2026-06-24T02:54:11.374Z",
+      "totalStars": 51776,
+      "repos": [
+        {
+          "fullName": "dockur/windows",
+          "name": "windows",
+          "owner": "dockur",
+          "stars": 51776
+        }
+      ]
     }
   ],
-  "starsAtLastNotification": 51774
+  "starsAtLastNotification": 51776
 }
