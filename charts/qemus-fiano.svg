@@ -8,8 +8,8 @@
       to { opacity: 1; }
     }
     .data-line-0 {
-      stroke-dasharray: 1200;
-      stroke-dashoffset: 1200;
+      stroke-dasharray: 1220;
+      stroke-dashoffset: 1220;
       animation: drawLine 2s ease-out forwards;
     }
     .data-point {
@@ -53,21 +53,23 @@
   </g>
   <g class="x-axis">
     <text x="60" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 23</text>
-    <text x="237.5" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
-    <text x="415" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
-    <text x="592.5" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="202" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="344" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="486" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="628" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
     <text x="770" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
   </g>
   <line x1="60" y1="50" x2="60" y2="350" class="chart-axis" stroke-width="1" />
   <line x1="60" y1="350" x2="770" y2="350" class="chart-axis" stroke-width="1" />
-  <path d="M60,350 C83.66666666666667,350 190.16666666666666,376.6666666666667 237.5,350 C284.8333333333333,323.3333333333333 367.6666666666667,176.66666666666666 415,150 C462.3333333333333,123.33333333333333 545.1666666666666,150 592.5,150 C639.8333333333334,150 746.3333333333334,150 770,150 L770,350 L60,350 Z" fill="#dfb317" fill-opacity="0.1" />
-  <path d="M60,350 C83.66666666666667,350 190.16666666666666,376.6666666666667 237.5,350 C284.8333333333333,323.3333333333333 367.6666666666667,176.66666666666666 415,150 C462.3333333333333,123.33333333333333 545.1666666666666,150 592.5,150 C639.8333333333334,150 746.3333333333334,150 770,150" fill="none" stroke="#dfb317" stroke-width="2" class="data-line-0" />
+  <path d="M60,350 C78.93333333333334,350 164.13333333333333,376.6666666666667 202,350 C239.86666666666667,323.3333333333333 306.1333333333333,176.66666666666666 344,150 C381.8666666666667,123.33333333333333 448.1333333333333,150 486,150 C523.8666666666667,150 590.1333333333333,150 628,150 C665.8666666666667,150 751.0666666666667,150 770,150 L770,350 L60,350 Z" fill="#dfb317" fill-opacity="0.1" />
+  <path d="M60,350 C78.93333333333334,350 164.13333333333333,376.6666666666667 202,350 C239.86666666666667,323.3333333333333 306.1333333333333,176.66666666666666 344,150 C381.8666666666667,123.33333333333333 448.1333333333333,150 486,150 C523.8666666666667,150 590.1333333333333,150 628,150 C665.8666666666667,150 751.0666666666667,150 770,150" fill="none" stroke="#dfb317" stroke-width="2" class="data-line-0" />
   <g class="points">
     
     <circle cx="60" cy="350" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.50s" />
-    <circle cx="237.5" cy="350" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.55s" />
-    <circle cx="415" cy="150" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.60s" />
-    <circle cx="592.5" cy="150" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.65s" />
-    <circle cx="770" cy="150" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.70s" />
+    <circle cx="202" cy="350" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.55s" />
+    <circle cx="344" cy="150" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.60s" />
+    <circle cx="486" cy="150" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.65s" />
+    <circle cx="628" cy="150" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.70s" />
+    <circle cx="770" cy="150" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.75s" />
   </g>
 </svg>
