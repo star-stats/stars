@@ -30,16 +30,19 @@ jobs:
           smart-sampling: true
           smart-sampling-pages: 30
           chart-max-points: 0
-          chart-line-width: 2
+          chart-line-width: 2.5
           chart-line-color: 6b63ff
           chart-y-axis-side: right
           chart-smoothing: false 
           only-orgs: dockur,qemus,dobtc,vdsm,action-pack
           github-token: ${{ secrets.STAR_TRACKER_TOKEN }}
-          smtp-host: ${{ secrets.SMTP_HOST }}
-          smtp-port: 587
-          smtp-username: ${{ secrets.SMTP_USERNAME }}
-          smtp-password: ${{ secrets.SMTP_PASSWORD }}
-          email-to: ${{ secrets.MAILTO }}
-          email-from: Github Star Tracker
-          notification-threshold: 0
+      -
+        name: Send report
+        #if: steps.tracker.outputs.new-stars >= 10 || steps.tracker.outputs.lost-stars >= 5
+        uses: action-pack/send-mail@v1
+        with:
+          to: ${{secrets.MAILTO}}
+          from: Github Star Tracker <${{secrets.MAILTO}}>
+          connection_url: ${{secrets.MAIL_CONNECTION}}
+          subject: '⭐ Stars changed: ${{ steps.tracker.outputs.total-stars }} total'
+          html_body: file://${{ steps.tracker.outputs.report-html-path }}
