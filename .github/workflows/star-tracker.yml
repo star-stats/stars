@@ -30,7 +30,7 @@ jobs:
           smart-sampling-pages: 30
           chart-max-points: 0
           chart-line-width: 2
-          chart-line-color: #6b63ff
+          chart-line-color: 6b63ff
           chart-y-axis-side: right
           chart-smoothing: false 
           only-orgs: dockur,qemus,dobtc,vdsm,action-pack
