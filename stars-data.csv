@@ -17,7 +17,7 @@ dockur/chrony,dockur,chrony,105,105,0,active
 dockur/dnsmasq,dockur,dnsmasq,147,147,0,active
 dockur/lemmy,dockur,lemmy,12,12,0,active
 dockur/lemmy-ui,dockur,lemmy-ui,21,21,0,active
-dockur/macos,dockur,macos,20348,20347,1,active
+dockur/macos,dockur,macos,20348,20348,0,active
 dockur/munin,dockur,munin,43,43,0,active
 dockur/piefed,dockur,piefed,1,1,0,active
 dockur/portainer-backup,dockur,portainer-backup,132,132,0,active
