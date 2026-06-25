@@ -37,6 +37,9 @@ jobs:
           only-orgs: dockur,qemus,dobtc,vdsm,action-pack
           github-token: ${{ secrets.STAR_TRACKER_TOKEN }}
       -
+        name: Save HTML output
+        run: echo "${{ steps.tracker.outputs.report-html }}" > report.html
+      -
         name: Send report
         #if: steps.tracker.outputs.new-stars >= 10 || steps.tracker.outputs.lost-stars >= 5
         uses: action-pack/send-mail@v1
@@ -45,4 +48,4 @@ jobs:
           from: Github Star Tracker <${{secrets.MAILTO}}>
           connection_url: ${{secrets.MAIL_CONNECTION}}
           subject: '⭐ Stars changed: ${{ steps.tracker.outputs.total-stars }} total'
-          html_body: ${{ steps.tracker.outputs.report-html }}
+          html_body: file://report.html
