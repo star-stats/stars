@@ -8,8 +8,8 @@
       to { opacity: 1; }
     }
     .data-line-0 {
-      stroke-dasharray: 1194;
-      stroke-dashoffset: 1194;
+      stroke-dasharray: 1163;
+      stroke-dashoffset: 1163;
       animation: drawLine 2s ease-out forwards;
     }
     .data-point {
@@ -33,49 +33,45 @@
   <text x="400" y="34" text-anchor="middle" class="chart-text" font-size="16" font-weight="bold" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">dockur/windows Star History</text>
   
   <g class="grid">
-    <line x1="60" y1="375" x2="770" y2="375" class="chart-grid" stroke-opacity="0.3" />
-    <text x="778" y="379" text-anchor="start" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">51,772</text>
-    <line x1="60" y1="325" x2="770" y2="325" class="chart-grid" stroke-opacity="0.3" />
-    <text x="778" y="329" text-anchor="start" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">51,774</text>
-    <line x1="60" y1="275" x2="770" y2="275" class="chart-grid" stroke-opacity="0.3" />
-    <text x="778" y="279" text-anchor="start" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">51,776</text>
-    <line x1="60" y1="225" x2="770" y2="225" class="chart-grid" stroke-opacity="0.3" />
-    <text x="778" y="229" text-anchor="start" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">51,778</text>
-    <line x1="60" y1="175" x2="770" y2="175" class="chart-grid" stroke-opacity="0.3" />
-    <text x="778" y="179" text-anchor="start" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">51,780</text>
-    <line x1="60" y1="125" x2="770" y2="125" class="chart-grid" stroke-opacity="0.3" />
-    <text x="778" y="129" text-anchor="start" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">51,782</text>
-    <line x1="60" y1="75" x2="770" y2="75" class="chart-grid" stroke-opacity="0.3" />
-    <text x="778" y="79" text-anchor="start" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">51,784</text>
-    <line x1="60" y1="25" x2="770" y2="25" class="chart-grid" stroke-opacity="0.3" />
-    <text x="778" y="29" text-anchor="start" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">51,786</text>
+    <line x1="60" y1="387.5" x2="770" y2="387.5" class="chart-grid" stroke-opacity="0.3" />
+    <text x="778" y="391.5" text-anchor="start" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">51,770</text>
+    <line x1="60" y1="293.75" x2="770" y2="293.75" class="chart-grid" stroke-opacity="0.3" />
+    <text x="778" y="297.75" text-anchor="start" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">51,775</text>
+    <line x1="60" y1="200" x2="770" y2="200" class="chart-grid" stroke-opacity="0.3" />
+    <text x="778" y="204" text-anchor="start" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">51,780</text>
+    <line x1="60" y1="106.25" x2="770" y2="106.25" class="chart-grid" stroke-opacity="0.3" />
+    <text x="778" y="110.25" text-anchor="start" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">51,785</text>
+    <line x1="60" y1="12.5" x2="770" y2="12.5" class="chart-grid" stroke-opacity="0.3" />
+    <text x="778" y="16.5" text-anchor="start" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">51,790</text>
   </g>
   <g class="milestones">
     
   </g>
   <g class="x-axis">
     <text x="60" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 23</text>
-    <text x="161.42857142857142" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
-    <text x="262.85714285714283" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
-    <text x="364.2857142857143" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
-    <text x="465.71428571428567" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
-    <text x="567.1428571428571" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
-    <text x="668.5714285714286" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="148.75" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="237.5" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="326.25" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="415" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="503.75" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="592.5" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 24</text>
+    <text x="681.25" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 25</text>
     <text x="770" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 25</text>
   </g>
   <line x1="770" y1="50" x2="770" y2="350" class="chart-axis" stroke-width="1" />
   <line x1="60" y1="350" x2="770" y2="350" class="chart-axis" stroke-width="1" />
-  <path d="M60,325 L161.42857142857142,275 L262.85714285714283,150 L364.2857142857143,125 L465.71428571428567,125 L567.1428571428571,125 L668.5714285714286,125 L770,75 L770,350 L60,350 Z" fill="#dfb317" fill-opacity="0.1" />
-  <path d="M60,325 L161.42857142857142,275 L262.85714285714283,150 L364.2857142857143,125 L465.71428571428567,125 L567.1428571428571,125 L668.5714285714286,125 L770,75" fill="none" stroke="#dfb317" stroke-width="2" class="data-line-0" />
+  <path d="M60,312.5 L148.75,275 L237.5,181.25 L326.25,162.5 L415,162.5 L503.75,162.5 L592.5,162.5 L681.25,125 L770,87.5 L770,350 L60,350 Z" fill="#6b63ff" fill-opacity="0.1" />
+  <path d="M60,312.5 L148.75,275 L237.5,181.25 L326.25,162.5 L415,162.5 L503.75,162.5 L592.5,162.5 L681.25,125 L770,87.5" fill="none" stroke="#6b63ff" stroke-width="2" class="data-line-0" />
   <g class="points">
     
-    <circle cx="60" cy="325" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.50s" />
-    <circle cx="161.42857142857142" cy="275" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.55s" />
-    <circle cx="262.85714285714283" cy="150" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.60s" />
-    <circle cx="364.2857142857143" cy="125" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.65s" />
-    <circle cx="465.71428571428567" cy="125" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.70s" />
-    <circle cx="567.1428571428571" cy="125" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.75s" />
-    <circle cx="668.5714285714286" cy="125" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.80s" />
-    <circle cx="770" cy="75" r="4" fill="#dfb317" class="data-point" style="animation-delay: 1.85s" />
+    <circle cx="60" cy="312.5" r="4" fill="#6b63ff" class="data-point" style="animation-delay: 1.50s" />
+    <circle cx="148.75" cy="275" r="4" fill="#6b63ff" class="data-point" style="animation-delay: 1.55s" />
+    <circle cx="237.5" cy="181.25" r="4" fill="#6b63ff" class="data-point" style="animation-delay: 1.60s" />
+    <circle cx="326.25" cy="162.5" r="4" fill="#6b63ff" class="data-point" style="animation-delay: 1.65s" />
+    <circle cx="415" cy="162.5" r="4" fill="#6b63ff" class="data-point" style="animation-delay: 1.70s" />
+    <circle cx="503.75" cy="162.5" r="4" fill="#6b63ff" class="data-point" style="animation-delay: 1.75s" />
+    <circle cx="592.5" cy="162.5" r="4" fill="#6b63ff" class="data-point" style="animation-delay: 1.80s" />
+    <circle cx="681.25" cy="125" r="4" fill="#6b63ff" class="data-point" style="animation-delay: 1.85s" />
+    <circle cx="770" cy="87.5" r="4" fill="#6b63ff" class="data-point" style="animation-delay: 1.90s" />
   </g>
 </svg>

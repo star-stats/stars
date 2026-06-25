@@ -1,8 +1,8 @@
 # Star Tracker Report
 
-**2026-06-25** | Total: **82953 stars** | Change: **+5**
+**2026-06-25** | Total: **82956 stars** | Change: **+3**
 
-> Compared to snapshot from 2026-06-24
+> Compared to snapshot from 2026-06-25
 
 ## 📈 Star Trend
 
@@ -229,13 +229,13 @@
 
 | Repositories | Stars | Change | Trend |
 |:-----------|------:|-------:|:-----:|
-| [dockur/windows](https://github.com/dockur/windows) | 51784 | +2 | ⬆️ |
-| [dockur/macos](https://github.com/dockur/macos) | 20349 | +3 | ⬆️ |
+| [dockur/windows](https://github.com/dockur/windows) | 51786 | +2 | ⬆️ |
+| [dockur/macos](https://github.com/dockur/macos) | 20349 | 0 | ➖ |
 | [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) | 3853 | 0 | ➖ |
 | [dockur/windows-arm](https://github.com/dockur/windows-arm) | 2176 | 0 | ➖ |
 | [qemus/qemu](https://github.com/qemus/qemu) | 1874 | 0 | ➖ |
 | [dockur/samba](https://github.com/dockur/samba) | 746 | 0 | ➖ |
-| [dockur/umbrel](https://github.com/dockur/umbrel) | 393 | 0 | ➖ |
+| [dockur/umbrel](https://github.com/dockur/umbrel) | 394 | +1 | ⬆️ |
 | [dockur/proxmox](https://github.com/dockur/proxmox) | 228 | 0 | ➖ |
 | [dockur/casa](https://github.com/dockur/casa) | 211 | 0 | ➖ |
 | [dockur/tor](https://github.com/dockur/tor) | 204 | 0 | ➖ |
@@ -284,9 +284,9 @@
 
 ## Summary
 
-- **Stars gained:** 5
+- **Stars gained:** 3
 - **Stars lost:** 0
-- **Net change:** +5
+- **Net change:** +3
 
 ## 🔮 Growth Forecast
 
@@ -294,8 +294,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 95197 | 99651 | 104105 | 108558 |
-| Weighted Moving Average | 85181 | 87409 | 89637 | 91865 |
+| Linear Regression | 94210 | 97848 | 101486 | 105123 |
+| Weighted Moving Average | 84690 | 86423 | 88157 | 89890 |
 
 ![Growth Forecast](./charts/forecast.svg)
 
@@ -308,8 +308,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 51786 | 51787 | 51788 | 51790 |
-| Weighted Moving Average | 51785 | 51786 | 51787 | 51788 |
+| Linear Regression | 51787 | 51788 | 51790 | 51791 |
+| Weighted Moving Average | 51787 | 51789 | 51790 | 51791 |
 
 </details>
 
@@ -320,8 +320,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 28341 | 31247 | 34154 | 37061 |
-| Weighted Moving Average | 21803 | 23257 | 24711 | 26165 |
+| Linear Regression | 27696 | 30070 | 32444 | 34818 |
+| Weighted Moving Average | 21480 | 22611 | 23742 | 24873 |
 
 </details>
 
@@ -332,8 +332,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 5367 | 5917 | 6468 | 7018 |
-| Weighted Moving Average | 4128 | 4403 | 4679 | 4954 |
+| Linear Regression | 5244 | 5694 | 6143 | 6593 |
+| Weighted Moving Average | 4067 | 4281 | 4495 | 4709 |
 
 </details>
 
@@ -344,8 +344,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 3031 | 3342 | 3653 | 3963 |
-| Weighted Moving Average | 2331 | 2487 | 2642 | 2798 |
+| Linear Regression | 2962 | 3216 | 3470 | 3723 |
+| Weighted Moving Average | 2297 | 2418 | 2539 | 2660 |
 
 </details>
 
@@ -356,8 +356,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 2610 | 2878 | 3146 | 3413 |
-| Weighted Moving Average | 2008 | 2142 | 2276 | 2409 |
+| Linear Regression | 2551 | 2769 | 2988 | 3207 |
+| Weighted Moving Average | 1978 | 2082 | 2186 | 2290 |
 
 </details>
 
@@ -368,8 +368,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 1039 | 1146 | 1252 | 1359 |
-| Weighted Moving Average | 799 | 853 | 906 | 959 |
+| Linear Regression | 1015 | 1102 | 1189 | 1276 |
+| Weighted Moving Average | 787 | 829 | 870 | 912 |
 
 </details>
 
@@ -380,8 +380,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 547 | 604 | 660 | 716 |
-| Weighted Moving Average | 421 | 449 | 477 | 505 |
+| Linear Regression | 535 | 581 | 627 | 673 |
+| Weighted Moving Average | 416 | 438 | 460 | 482 |
 
 </details>
 
@@ -392,8 +392,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 318 | 350 | 383 | 415 |
-| Weighted Moving Average | 244 | 261 | 277 | 293 |
+| Linear Regression | 310 | 337 | 364 | 390 |
+| Weighted Moving Average | 241 | 253 | 266 | 279 |
 
 </details>
 
@@ -404,8 +404,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 294 | 324 | 354 | 384 |
-| Weighted Moving Average | 226 | 241 | 256 | 271 |
+| Linear Regression | 287 | 312 | 336 | 361 |
+| Weighted Moving Average | 223 | 234 | 246 | 258 |
 
 </details>
 
@@ -416,8 +416,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 284 | 313 | 342 | 372 |
-| Weighted Moving Average | 219 | 233 | 248 | 262 |
+| Linear Regression | 278 | 301 | 325 | 349 |
+| Weighted Moving Average | 215 | 227 | 238 | 249 |
 
 </details>
 
@@ -428,8 +428,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 280 | 309 | 337 | 366 |
-| Weighted Moving Average | 215 | 230 | 244 | 258 |
+| Linear Regression | 274 | 297 | 320 | 344 |
+| Weighted Moving Average | 212 | 223 | 235 | 246 |
 
 </details>
 
@@ -440,8 +440,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 205 | 226 | 247 | 268 |
-| Weighted Moving Average | 158 | 168 | 179 | 189 |
+| Linear Regression | 200 | 217 | 234 | 252 |
+| Weighted Moving Average | 155 | 163 | 172 | 180 |
 
 </details>
 
@@ -452,8 +452,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 184 | 203 | 222 | 240 |
-| Weighted Moving Average | 141 | 151 | 160 | 170 |
+| Linear Regression | 180 | 195 | 210 | 226 |
+| Weighted Moving Average | 139 | 147 | 154 | 161 |
 
 </details>
 
@@ -464,8 +464,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 174 | 192 | 210 | 228 |
-| Weighted Moving Average | 134 | 143 | 152 | 161 |
+| Linear Regression | 170 | 185 | 199 | 214 |
+| Weighted Moving Average | 132 | 139 | 146 | 153 |
 
 </details>
 
@@ -476,8 +476,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 146 | 161 | 176 | 191 |
-| Weighted Moving Average | 113 | 120 | 128 | 135 |
+| Linear Regression | 143 | 155 | 167 | 180 |
+| Weighted Moving Average | 111 | 117 | 123 | 128 |
 
 </details>
 
@@ -488,8 +488,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 103 | 114 | 124 | 135 |
-| Weighted Moving Average | 79 | 85 | 90 | 95 |
+| Linear Regression | 101 | 109 | 118 | 127 |
+| Weighted Moving Average | 78 | 82 | 86 | 90 |
 
 </details>
 
@@ -500,8 +500,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 78 | 86 | 94 | 102 |
-| Weighted Moving Average | 60 | 64 | 68 | 72 |
+| Linear Regression | 76 | 83 | 89 | 96 |
+| Weighted Moving Average | 59 | 62 | 65 | 68 |
 
 </details>
 
@@ -512,8 +512,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 60 | 66 | 72 | 78 |
-| Weighted Moving Average | 46 | 49 | 52 | 55 |
+| Linear Regression | 59 | 64 | 69 | 74 |
+| Weighted Moving Average | 45 | 48 | 50 | 53 |
 
 </details>
 
@@ -524,8 +524,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 40 | 45 | 49 | 53 |
-| Weighted Moving Average | 31 | 33 | 35 | 37 |
+| Linear Regression | 39 | 43 | 46 | 50 |
+| Weighted Moving Average | 31 | 32 | 34 | 35 |
 
 </details>
 
@@ -536,8 +536,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 35 | 38 | 42 | 46 |
-| Weighted Moving Average | 27 | 29 | 30 | 32 |
+| Linear Regression | 34 | 37 | 40 | 43 |
+| Weighted Moving Average | 26 | 28 | 29 | 31 |
 
 </details>
 
@@ -548,8 +548,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 31 | 34 | 37 | 40 |
-| Weighted Moving Average | 24 | 25 | 27 | 28 |
+| Linear Regression | 30 | 33 | 35 | 38 |
+| Weighted Moving Average | 23 | 24 | 26 | 27 |
 
 </details>
 
@@ -560,8 +560,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 29 | 32 | 35 | 38 |
-| Weighted Moving Average | 23 | 24 | 26 | 27 |
+| Linear Regression | 29 | 31 | 33 | 36 |
+| Weighted Moving Average | 22 | 23 | 25 | 26 |
 
 </details>
 
@@ -572,8 +572,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 26 | 29 | 32 | 35 |
-| Weighted Moving Average | 20 | 22 | 23 | 24 |
+| Linear Regression | 26 | 28 | 30 | 33 |
+| Weighted Moving Average | 20 | 21 | 22 | 23 |
 
 </details>
 
@@ -584,8 +584,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 22 | 25 | 27 | 29 |
-| Weighted Moving Average | 17 | 18 | 19 | 21 |
+| Linear Regression | 22 | 24 | 26 | 27 |
+| Weighted Moving Average | 17 | 18 | 19 | 20 |
 
 </details>
 
@@ -596,8 +596,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 21 | 23 | 25 | 27 |
-| Weighted Moving Average | 16 | 17 | 18 | 19 |
+| Linear Regression | 20 | 22 | 24 | 26 |
+| Weighted Moving Average | 16 | 17 | 18 | 18 |
 
 </details>
 
@@ -608,8 +608,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 20 | 22 | 24 | 26 |
-| Weighted Moving Average | 15 | 16 | 17 | 18 |
+| Linear Regression | 19 | 21 | 22 | 24 |
+| Weighted Moving Average | 15 | 16 | 16 | 17 |
 
 </details>
 
@@ -620,8 +620,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 18 | 20 | 22 | 24 |
-| Weighted Moving Average | 14 | 15 | 16 | 17 |
+| Linear Regression | 18 | 19 | 21 | 22 |
+| Weighted Moving Average | 14 | 14 | 15 | 16 |
 
 </details>
 
@@ -632,8 +632,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 17 | 18 | 20 | 22 |
-| Weighted Moving Average | 13 | 14 | 15 | 15 |
+| Linear Regression | 16 | 18 | 19 | 21 |
+| Weighted Moving Average | 13 | 13 | 14 | 15 |
 
 </details>
 
@@ -644,8 +644,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 14 | 15 | 17 | 18 |
-| Weighted Moving Average | 11 | 11 | 12 | 13 |
+| Linear Regression | 14 | 15 | 16 | 17 |
+| Weighted Moving Average | 11 | 11 | 12 | 12 |
 
 </details>
 
@@ -656,8 +656,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 13 | 14 | 15 | 16 |
-| Weighted Moving Average | 10 | 10 | 11 | 12 |
+| Linear Regression | 12 | 13 | 14 | 15 |
+| Weighted Moving Average | 10 | 10 | 11 | 11 |
 
 </details>
 
@@ -668,8 +668,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 11 | 12 | 13 | 15 |
-| Weighted Moving Average | 9 | 9 | 10 | 10 |
+| Linear Regression | 11 | 12 | 13 | 14 |
+| Weighted Moving Average | 8 | 9 | 9 | 10 |
 
 </details>
 
@@ -680,8 +680,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 10 | 11 | 12 | 13 |
-| Weighted Moving Average | 8 | 8 | 9 | 9 |
+| Linear Regression | 10 | 10 | 11 | 12 |
+| Weighted Moving Average | 7 | 8 | 8 | 9 |
 
 </details>
 
@@ -692,7 +692,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 4 | 5 | 5 | 5 |
+| Linear Regression | 4 | 4 | 5 | 5 |
 | Weighted Moving Average | 3 | 3 | 4 | 4 |
 
 </details>
@@ -704,7 +704,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 4 | 5 | 5 | 5 |
+| Linear Regression | 4 | 4 | 5 | 5 |
 | Weighted Moving Average | 3 | 3 | 4 | 4 |
 
 </details>
@@ -716,7 +716,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 4 | 5 | 5 | 5 |
+| Linear Regression | 4 | 4 | 5 | 5 |
 | Weighted Moving Average | 3 | 3 | 4 | 4 |
 
 </details>
@@ -728,7 +728,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 4 | 5 | 5 | 5 |
+| Linear Regression | 4 | 4 | 5 | 5 |
 | Weighted Moving Average | 3 | 3 | 4 | 4 |
 
 </details>
@@ -740,8 +740,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 3 | 3 | 3 | 4 |
-| Weighted Moving Average | 2 | 2 | 2 | 3 |
+| Linear Regression | 3 | 3 | 3 | 3 |
+| Weighted Moving Average | 2 | 2 | 2 | 2 |
 
 </details>
 
@@ -752,8 +752,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 3 | 3 | 3 | 4 |
-| Weighted Moving Average | 2 | 2 | 2 | 3 |
+| Linear Regression | 3 | 3 | 3 | 3 |
+| Weighted Moving Average | 2 | 2 | 2 | 2 |
 
 </details>
 
@@ -764,8 +764,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 3 | 3 | 3 | 4 |
-| Weighted Moving Average | 2 | 2 | 2 | 3 |
+| Linear Regression | 3 | 3 | 3 | 3 |
+| Weighted Moving Average | 2 | 2 | 2 | 2 |
 
 </details>
 
@@ -776,8 +776,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 3 | 3 | 3 | 4 |
-| Weighted Moving Average | 2 | 2 | 2 | 3 |
+| Linear Regression | 3 | 3 | 3 | 3 |
+| Weighted Moving Average | 2 | 2 | 2 | 2 |
 
 </details>
 
@@ -788,7 +788,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 2 | 2 | 2 |
+| Linear Regression | 1 | 1 | 2 | 2 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
 </details>
@@ -800,7 +800,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 2 | 2 | 2 |
+| Linear Regression | 1 | 1 | 2 | 2 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
 </details>
@@ -812,7 +812,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 2 | 2 | 2 |
+| Linear Regression | 1 | 1 | 2 | 2 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
 </details>
@@ -824,7 +824,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 2 | 2 | 2 |
+| Linear Regression | 1 | 1 | 2 | 2 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
 </details>
@@ -836,7 +836,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 2 | 2 | 2 |
+| Linear Regression | 1 | 1 | 2 | 2 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
 </details>
@@ -848,7 +848,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 2 | 2 | 2 |
+| Linear Regression | 1 | 1 | 2 | 2 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
 </details>
@@ -860,7 +860,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 2 | 2 | 2 |
+| Linear Regression | 1 | 1 | 2 | 2 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
 </details>
@@ -872,7 +872,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 2 | 2 | 2 |
+| Linear Regression | 1 | 1 | 2 | 2 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
 </details>
@@ -884,7 +884,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 2 | 2 | 2 |
+| Linear Regression | 1 | 1 | 2 | 2 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
 </details>
@@ -896,7 +896,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 2 | 2 | 2 |
+| Linear Regression | 1 | 1 | 2 | 2 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
 </details>
@@ -908,7 +908,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 2 | 2 | 2 |
+| Linear Regression | 1 | 1 | 2 | 2 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
 </details>
@@ -920,13 +920,13 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 2 | 2 | 2 |
+| Linear Regression | 1 | 1 | 2 | 2 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
 </details>
 
 ---
-*Generated by [GitHub Star Tracker](https://github.com/fbuireu/github-star-tracker) on 2026-06-25T02:53:39.142Z*
+*Generated by [GitHub Star Tracker](https://github.com/fbuireu/github-star-tracker) on 2026-06-25T06:43:23.389Z*
 <div align="center">
 
 *Made with 🤘 by [Ferran Buireu](https://github.com/fbuireu)*

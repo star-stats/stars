@@ -17,7 +17,7 @@ dockur/chrony,dockur,chrony,105,105,0,active
 dockur/dnsmasq,dockur,dnsmasq,147,147,0,active
 dockur/lemmy,dockur,lemmy,12,12,0,active
 dockur/lemmy-ui,dockur,lemmy-ui,21,21,0,active
-dockur/macos,dockur,macos,20349,20346,3,active
+dockur/macos,dockur,macos,20349,20349,0,active
 dockur/munin,dockur,munin,43,43,0,active
 dockur/piefed,dockur,piefed,1,1,0,active
 dockur/portainer-backup,dockur,portainer-backup,132,132,0,active
@@ -30,9 +30,9 @@ dockur/statping,dockur,statping,74,74,0,active
 dockur/strfry,dockur,strfry,22,22,0,active
 dockur/stunnel,dockur,stunnel,14,14,0,active
 dockur/tor,dockur,tor,204,204,0,active
-dockur/umbrel,dockur,umbrel,393,393,0,active
+dockur/umbrel,dockur,umbrel,394,393,1,active
 dockur/virtual-dsm,dockur,virtual-dsm,3,3,0,active
-dockur/windows,dockur,windows,51784,51782,2,active
+dockur/windows,dockur,windows,51786,51784,2,active
 dockur/windows-arm,dockur,windows-arm,2176,2176,0,active
 dockur/zima,dockur,zima,15,15,0,active
 qemus/.github,qemus,.github,1,1,0,active
