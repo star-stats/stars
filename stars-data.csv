@@ -32,10 +32,9 @@ dockur/stunnel,dockur,stunnel,14,14,0,active
 dockur/tor,dockur,tor,204,204,0,active
 dockur/umbrel,dockur,umbrel,394,394,0,active
 dockur/virtual-dsm,dockur,virtual-dsm,3,3,0,active
-dockur/windows,dockur,windows,51789,51789,0,active
+dockur/windows,dockur,windows,51790,51789,1,active
 dockur/windows-arm,dockur,windows-arm,2175,2175,0,active
-dockur/zima,dockur,zima,15,15,0,active
-qemus/.github,qemus,.github,1,1,0,active
+dockur/zima,dockur,zima,16,15,1,active
 qemus/fiano,qemus,fiano,2,2,0,active
 qemus/passt,qemus,passt,10,10,0,active
 qemus/proxmox,qemus,proxmox,3,3,0,active
@@ -51,3 +50,4 @@ qemus/virtiso-arm,qemus,virtiso-arm,25,25,0,active
 qemus/virtiso-whql,qemus,virtiso-whql,56,56,0,active
 qemus/virtiso-x86,qemus,virtiso-x86,16,16,0,active
 vdsm/virtual-dsm,vdsm,virtual-dsm,3853,3853,0,active
+qemus/.github,qemus,.github,0,1,-1,removed
