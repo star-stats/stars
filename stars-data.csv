@@ -25,14 +25,14 @@ dockur/proxmox,dockur,proxmox,228,228,0,active
 dockur/proxmox-backup,dockur,proxmox-backup,3,3,0,active
 dockur/proxmox-dm,dockur,proxmox-dm,2,2,0,active
 dockur/qemu,dockur,qemu,1,1,0,active
-dockur/samba,dockur,samba,746,746,0,active
+dockur/samba,dockur,samba,747,746,1,active
 dockur/statping,dockur,statping,74,74,0,active
 dockur/strfry,dockur,strfry,22,22,0,active
 dockur/stunnel,dockur,stunnel,14,14,0,active
 dockur/tor,dockur,tor,204,204,0,active
-dockur/umbrel,dockur,umbrel,394,393,1,active
+dockur/umbrel,dockur,umbrel,394,394,0,active
 dockur/virtual-dsm,dockur,virtual-dsm,3,3,0,active
-dockur/windows,dockur,windows,51786,51784,2,active
+dockur/windows,dockur,windows,51786,51786,0,active
 dockur/windows-arm,dockur,windows-arm,2176,2176,0,active
 dockur/zima,dockur,zima,15,15,0,active
 qemus/.github,qemus,.github,1,1,0,active
