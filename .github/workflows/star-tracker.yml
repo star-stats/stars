@@ -40,8 +40,6 @@ jobs:
         name: Send report
         #if: steps.tracker.outputs.new-stars >= 10 || steps.tracker.outputs.lost-stars >= 5
         uses: action-pack/send-mail@v1
-        env:
-          NODE_OPTIONS: --dns-result-order=ipv4first
         with:
           to: ${{secrets.MAILTO}}
           from: Github Star Tracker <${{secrets.MAILTO}}>
