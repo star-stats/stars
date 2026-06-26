@@ -34,6 +34,7 @@ jobs:
           chart-smoothing: true
           chart-milestones: false
           exclude-repos: .github
+          velocity-metrics: true
           only-orgs: dockur,qemus,dobtc,vdsm,action-pack
           github-token: ${{ secrets.STAR_TRACKER_TOKEN }}
       -
