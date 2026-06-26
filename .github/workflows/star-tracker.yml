@@ -28,8 +28,6 @@ jobs:
           include-forks: true
           include-charts: true
           smart-sampling: true
-          smart-sampling-pages: 30
-          chart-max-points: 0
           chart-line-width: 2.5
           chart-line-color: 6b63ff
           chart-y-axis-side: right
