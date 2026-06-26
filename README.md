@@ -1,6 +1,6 @@
 # Star Tracker Report
 
-**2026-06-25** | Total: **82958 stars** | Change: **+1**
+**2026-06-26** | Total: **82983 stars** | Change: **+25**
 
 > Compared to snapshot from 2026-06-25
 
@@ -225,14 +225,14 @@
 
 | Repositories | Stars | Change | Trend |
 |:-----------|------:|-------:|:-----:|
-| [dockur/windows](https://github.com/dockur/windows) | 51790 | +1 | ⬆️ |
-| [dockur/macos](https://github.com/dockur/macos) | 20348 | 0 | ➖ |
+| [dockur/windows](https://github.com/dockur/windows) | 51808 | +18 | ⬆️ |
+| [dockur/macos](https://github.com/dockur/macos) | 20353 | +5 | ⬆️ |
 | [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) | 3853 | 0 | ➖ |
 | [dockur/windows-arm](https://github.com/dockur/windows-arm) | 2175 | 0 | ➖ |
 | [qemus/qemu](https://github.com/qemus/qemu) | 1873 | 0 | ➖ |
-| [dockur/samba](https://github.com/dockur/samba) | 747 | 0 | ➖ |
+| [dockur/samba](https://github.com/dockur/samba) | 748 | +1 | ⬆️ |
 | [dockur/umbrel](https://github.com/dockur/umbrel) | 394 | 0 | ➖ |
-| [dockur/proxmox](https://github.com/dockur/proxmox) | 228 | 0 | ➖ |
+| [dockur/proxmox](https://github.com/dockur/proxmox) | 229 | +1 | ⬆️ |
 | [dockur/casa](https://github.com/dockur/casa) | 211 | 0 | ➖ |
 | [dockur/tor](https://github.com/dockur/tor) | 204 | 0 | ➖ |
 | [qemus/qemu-arm](https://github.com/qemus/qemu-arm) | 201 | 0 | ➖ |
@@ -248,7 +248,7 @@
 | [dockur/strfry](https://github.com/dockur/strfry) | 22 | 0 | ➖ |
 | [dockur/lemmy-ui](https://github.com/dockur/lemmy-ui) | 21 | 0 | ➖ |
 | [action-pack/gitlab-sync](https://github.com/action-pack/gitlab-sync) | 19 | 0 | ➖ |
-| [dockur/zima](https://github.com/dockur/zima) | 16 | +1 | ⬆️ |
+| [dockur/zima](https://github.com/dockur/zima) | 16 | 0 | ➖ |
 | [qemus/virtiso-x86](https://github.com/qemus/virtiso-x86) | 16 | 0 | ➖ |
 | [dockur/stunnel](https://github.com/dockur/stunnel) | 14 | 0 | ➖ |
 | [dobtc/bitcoin](https://github.com/dobtc/bitcoin) | 13 | 0 | ➖ |
@@ -277,15 +277,11 @@
 | [qemus/proxmox-datacenter-arm64](https://github.com/qemus/proxmox-datacenter-arm64) | 1 | 0 | ➖ |
 | [qemus/proxmox-dm](https://github.com/qemus/proxmox-dm) | 1 | 0 | ➖ |
 
-## Removed Repositories
-
-qemus/.github: was 1 stars
-
 ## Summary
 
-- **Stars gained:** 2
-- **Stars lost:** 1
-- **Net change:** +1
+- **Stars gained:** 25
+- **Stars lost:** 0
+- **Net change:** +25
 
 ## 🔮 Growth Forecast
 
@@ -293,8 +289,8 @@ qemus/.github: was 1 stars
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 87331 | 90677 | 94022 | 97368 |
-| Weighted Moving Average | 86233 | 89508 | 92783 | 96058 |
+| Linear Regression | 87317 | 90662 | 94007 | 97352 |
+| Weighted Moving Average | 86260 | 89537 | 92814 | 96091 |
 
 ![Growth Forecast](./charts/forecast.svg)
 
@@ -307,8 +303,8 @@ qemus/.github: was 1 stars
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 55207 | 57294 | 59381 | 61467 |
-| Weighted Moving Average | 53785 | 55780 | 57775 | 59770 |
+| Linear Regression | 55215 | 57303 | 59390 | 61477 |
+| Weighted Moving Average | 53804 | 55800 | 57797 | 59793 |
 
 </details>
 
@@ -319,8 +315,8 @@ qemus/.github: was 1 stars
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 21152 | 22020 | 22889 | 23757 |
-| Weighted Moving Average | 21221 | 22093 | 22966 | 23839 |
+| Linear Regression | 21126 | 21993 | 22861 | 23728 |
+| Weighted Moving Average | 21227 | 22100 | 22974 | 23848 |
 
 </details>
 
@@ -331,7 +327,7 @@ qemus/.github: was 1 stars
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 4333 | 4460 | 4587 | 4714 |
+| Linear Regression | 4334 | 4461 | 4588 | 4715 |
 | Weighted Moving Average | 3956 | 4058 | 4161 | 4264 |
 
 </details>
@@ -343,7 +339,7 @@ qemus/.github: was 1 stars
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 2419 | 2512 | 2604 | 2696 |
+| Linear Regression | 2420 | 2512 | 2605 | 2697 |
 | Weighted Moving Average | 2257 | 2339 | 2420 | 2502 |
 
 </details>
@@ -355,7 +351,7 @@ qemus/.github: was 1 stars
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 1716 | 1785 | 1854 | 1923 |
+| Linear Regression | 1717 | 1786 | 1855 | 1924 |
 | Weighted Moving Average | 1957 | 2042 | 2126 | 2211 |
 
 </details>
@@ -368,7 +364,7 @@ qemus/.github: was 1 stars
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
 | Linear Regression | 678 | 706 | 734 | 762 |
-| Weighted Moving Average | 782 | 816 | 851 | 886 |
+| Weighted Moving Average | 783 | 818 | 852 | 887 |
 
 </details>
 
@@ -379,7 +375,7 @@ qemus/.github: was 1 stars
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 383 | 399 | 415 | 431 |
+| Linear Regression | 384 | 400 | 416 | 432 |
 | Weighted Moving Average | 412 | 430 | 447 | 465 |
 
 </details>
@@ -391,8 +387,8 @@ qemus/.github: was 1 stars
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 30 | 32 | 33 | 35 |
-| Weighted Moving Average | 243 | 258 | 274 | 289 |
+| Linear Regression | 31 | 32 | 33 | 35 |
+| Weighted Moving Average | 244 | 260 | 275 | 290 |
 
 </details>
 
@@ -452,7 +448,7 @@ qemus/.github: was 1 stars
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
 | Linear Regression | 127 | 132 | 138 | 143 |
-| Weighted Moving Average | 138 | 144 | 149 | 155 |
+| Weighted Moving Average | 138 | 143 | 149 | 155 |
 
 </details>
 
@@ -913,7 +909,7 @@ qemus/.github: was 1 stars
 </details>
 
 ---
-*Generated by [GitHub Star Tracker](https://github.com/fbuireu/github-star-tracker) on 2026-06-25T16:32:10.969Z*
+*Generated by [GitHub Star Tracker](https://github.com/fbuireu/github-star-tracker) on 2026-06-26T03:00:13.729Z*
 <div align="center">
 
 *Made with 🤘 by [Ferran Buireu](https://github.com/fbuireu)*
