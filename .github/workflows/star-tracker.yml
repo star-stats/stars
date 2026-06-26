@@ -34,6 +34,7 @@ jobs:
           chart-line-color: 6b63ff
           chart-y-axis-side: right
           chart-smoothing: true
+          chart-milestones: false
           exclude-repos: .github
           only-orgs: dockur,qemus,dobtc,vdsm,action-pack
           github-token: ${{ secrets.STAR_TRACKER_TOKEN }}
