@@ -7643,7 +7643,319 @@
           "stars": 3853
         }
       ]
+    },
+    {
+      "timestamp": "2026-06-27T02:49:29.771Z",
+      "totalStars": 83253,
+      "repos": [
+        {
+          "fullName": "action-pack/bump",
+          "name": "bump",
+          "owner": "action-pack",
+          "stars": 1
+        },
+        {
+          "fullName": "action-pack/cancel",
+          "name": "cancel",
+          "owner": "action-pack",
+          "stars": 8
+        },
+        {
+          "fullName": "action-pack/github-release",
+          "name": "github-release",
+          "owner": "action-pack",
+          "stars": 1
+        },
+        {
+          "fullName": "action-pack/gitlab-sync",
+          "name": "gitlab-sync",
+          "owner": "action-pack",
+          "stars": 19
+        },
+        {
+          "fullName": "action-pack/increment",
+          "name": "increment",
+          "owner": "action-pack",
+          "stars": 9
+        },
+        {
+          "fullName": "action-pack/send-mail",
+          "name": "send-mail",
+          "owner": "action-pack",
+          "stars": 1
+        },
+        {
+          "fullName": "action-pack/set-secret",
+          "name": "set-secret",
+          "owner": "action-pack",
+          "stars": 7
+        },
+        {
+          "fullName": "action-pack/set-variable",
+          "name": "set-variable",
+          "owner": "action-pack",
+          "stars": 2
+        },
+        {
+          "fullName": "action-pack/tag-exists",
+          "name": "tag-exists",
+          "owner": "action-pack",
+          "stars": 2
+        },
+        {
+          "fullName": "action-pack/valid-xml",
+          "name": "valid-xml",
+          "owner": "action-pack",
+          "stars": 3
+        },
+        {
+          "fullName": "dobtc/bitcoin",
+          "name": "bitcoin",
+          "owner": "dobtc",
+          "stars": 13
+        },
+        {
+          "fullName": "dobtc/btc-rpc-proxy",
+          "name": "btc-rpc-proxy",
+          "owner": "dobtc",
+          "stars": 1
+        },
+        {
+          "fullName": "dockur/bitcoin",
+          "name": "bitcoin",
+          "owner": "dockur",
+          "stars": 1
+        },
+        {
+          "fullName": "dockur/casa",
+          "name": "casa",
+          "owner": "dockur",
+          "stars": 211
+        },
+        {
+          "fullName": "dockur/chrony",
+          "name": "chrony",
+          "owner": "dockur",
+          "stars": 105
+        },
+        {
+          "fullName": "dockur/dnsmasq",
+          "name": "dnsmasq",
+          "owner": "dockur",
+          "stars": 147
+        },
+        {
+          "fullName": "dockur/lemmy",
+          "name": "lemmy",
+          "owner": "dockur",
+          "stars": 12
+        },
+        {
+          "fullName": "dockur/lemmy-ui",
+          "name": "lemmy-ui",
+          "owner": "dockur",
+          "stars": 21
+        },
+        {
+          "fullName": "dockur/macos",
+          "name": "macos",
+          "owner": "dockur",
+          "stars": 20366
+        },
+        {
+          "fullName": "dockur/munin",
+          "name": "munin",
+          "owner": "dockur",
+          "stars": 43
+        },
+        {
+          "fullName": "dockur/piefed",
+          "name": "piefed",
+          "owner": "dockur",
+          "stars": 1
+        },
+        {
+          "fullName": "dockur/portainer-backup",
+          "name": "portainer-backup",
+          "owner": "dockur",
+          "stars": 132
+        },
+        {
+          "fullName": "dockur/proxmox",
+          "name": "proxmox",
+          "owner": "dockur",
+          "stars": 230
+        },
+        {
+          "fullName": "dockur/proxmox-backup",
+          "name": "proxmox-backup",
+          "owner": "dockur",
+          "stars": 4
+        },
+        {
+          "fullName": "dockur/proxmox-dm",
+          "name": "proxmox-dm",
+          "owner": "dockur",
+          "stars": 2
+        },
+        {
+          "fullName": "dockur/qemu",
+          "name": "qemu",
+          "owner": "dockur",
+          "stars": 1
+        },
+        {
+          "fullName": "dockur/samba",
+          "name": "samba",
+          "owner": "dockur",
+          "stars": 748
+        },
+        {
+          "fullName": "dockur/statping",
+          "name": "statping",
+          "owner": "dockur",
+          "stars": 74
+        },
+        {
+          "fullName": "dockur/strfry",
+          "name": "strfry",
+          "owner": "dockur",
+          "stars": 22
+        },
+        {
+          "fullName": "dockur/stunnel",
+          "name": "stunnel",
+          "owner": "dockur",
+          "stars": 14
+        },
+        {
+          "fullName": "dockur/tor",
+          "name": "tor",
+          "owner": "dockur",
+          "stars": 204
+        },
+        {
+          "fullName": "dockur/umbrel",
+          "name": "umbrel",
+          "owner": "dockur",
+          "stars": 394
+        },
+        {
+          "fullName": "dockur/virtual-dsm",
+          "name": "virtual-dsm",
+          "owner": "dockur",
+          "stars": 3
+        },
+        {
+          "fullName": "dockur/windows",
+          "name": "windows",
+          "owner": "dockur",
+          "stars": 52055
+        },
+        {
+          "fullName": "dockur/windows-arm",
+          "name": "windows-arm",
+          "owner": "dockur",
+          "stars": 2178
+        },
+        {
+          "fullName": "dockur/zima",
+          "name": "zima",
+          "owner": "dockur",
+          "stars": 16
+        },
+        {
+          "fullName": "qemus/fiano",
+          "name": "fiano",
+          "owner": "qemus",
+          "stars": 2
+        },
+        {
+          "fullName": "qemus/passt",
+          "name": "passt",
+          "owner": "qemus",
+          "stars": 10
+        },
+        {
+          "fullName": "qemus/proxmox",
+          "name": "proxmox",
+          "owner": "qemus",
+          "stars": 3
+        },
+        {
+          "fullName": "qemus/proxmox-backup",
+          "name": "proxmox-backup",
+          "owner": "qemus",
+          "stars": 1
+        },
+        {
+          "fullName": "qemus/proxmox-backup-arm64",
+          "name": "proxmox-backup-arm64",
+          "owner": "qemus",
+          "stars": 1
+        },
+        {
+          "fullName": "qemus/proxmox-datacenter-arm64",
+          "name": "proxmox-datacenter-arm64",
+          "owner": "qemus",
+          "stars": 1
+        },
+        {
+          "fullName": "qemus/proxmox-dm",
+          "name": "proxmox-dm",
+          "owner": "qemus",
+          "stars": 1
+        },
+        {
+          "fullName": "qemus/qemu",
+          "name": "qemu",
+          "owner": "qemus",
+          "stars": 1878
+        },
+        {
+          "fullName": "qemus/qemu-arm",
+          "name": "qemu-arm",
+          "owner": "qemus",
+          "stars": 201
+        },
+        {
+          "fullName": "qemus/qemu-host",
+          "name": "qemu-host",
+          "owner": "qemus",
+          "stars": 29
+        },
+        {
+          "fullName": "qemus/virtiso",
+          "name": "virtiso",
+          "owner": "qemus",
+          "stars": 125
+        },
+        {
+          "fullName": "qemus/virtiso-arm",
+          "name": "virtiso-arm",
+          "owner": "qemus",
+          "stars": 25
+        },
+        {
+          "fullName": "qemus/virtiso-whql",
+          "name": "virtiso-whql",
+          "owner": "qemus",
+          "stars": 57
+        },
+        {
+          "fullName": "qemus/virtiso-x86",
+          "name": "virtiso-x86",
+          "owner": "qemus",
+          "stars": 16
+        },
+        {
+          "fullName": "vdsm/virtual-dsm",
+          "name": "virtual-dsm",
+          "owner": "vdsm",
+          "stars": 3852
+        }
+      ]
     }
   ],
-  "starsAtLastNotification": 82983
+  "starsAtLastNotification": 83253
 }
