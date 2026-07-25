@@ -39,7 +39,7 @@ jobs:
           github-token: ${{ secrets.STAR_TRACKER_TOKEN }}
       -
         name: Send report
-        if: steps.tracker.outputs.new-stars >= 10 || steps.tracker.outputs.lost-stars >= 5
+        if: steps.tracker.outputs.new-stars >= 50 || steps.tracker.outputs.lost-stars >= 10
         uses: action-pack/send-mail@v1
         with:
           to: ${{secrets.MAILTO}}
