@@ -2,7 +2,7 @@ name: Weekly Report
 
 on:
   schedule:
-    - cron: '0 13 * * 1' # Runs at 13:00, only on Monday
+    - cron: '0 02 * * 1' # Runs at 2 AM, only on Monday
   workflow_dispatch:
 
 permissions:
