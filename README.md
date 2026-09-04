@@ -1,8 +1,8 @@
 # Star Tracker Report
 
-**2026-09-03** | Total: **86261 stars** | Change: **+15**
+**2026-09-04** | Total: **86286 stars** | Change: **+25**
 
-> Compared to snapshot from 2026-09-02
+> Compared to snapshot from 2026-09-03
 
 ## 📈 Star Trend
 
@@ -15,11 +15,11 @@
 <details>
 <summary>Individual Repository Charts</summary>
 
-#### dockur/windows: 53140 ★ (+11)
+#### dockur/windows: 53152 ★ (+12)
 
 ![dockur/windows](./charts/dockur-windows.svg)
 
-#### dockur/macos: 21498 ★ (+3)
+#### dockur/macos: 21506 ★ (+8)
 
 ![dockur/macos](./charts/dockur-macos.svg)
 
@@ -31,15 +31,15 @@
 
 ![dockur/windows-arm](./charts/dockur-windows-arm.svg)
 
-#### qemus/qemu: 2120 ★ (+1)
+#### qemus/qemu: 2120 ★ (0)
 
 ![qemus/qemu](./charts/qemus-qemu.svg)
 
-#### dockur/samba: 797 ★ (+2)
+#### dockur/samba: 798 ★ (+1)
 
 ![dockur/samba](./charts/dockur-samba.svg)
 
-#### dockur/umbrel: 409 ★ (0)
+#### dockur/umbrel: 410 ★ (+1)
 
 ![dockur/umbrel](./charts/dockur-umbrel.svg)
 
@@ -51,7 +51,7 @@
 
 ![dockur/casa](./charts/dockur-casa.svg)
 
-#### dockur/tor: 220 ★ (0)
+#### dockur/tor: 218 ★ (-2)
 
 ![dockur/tor](./charts/dockur-tor.svg)
 
@@ -59,7 +59,7 @@
 
 ![qemus/qemu-arm](./charts/qemus-qemu-arm.svg)
 
-#### dockur/dnsmasq: 162 ★ (0)
+#### dockur/dnsmasq: 161 ★ (-1)
 
 ![dockur/dnsmasq](./charts/dockur-dnsmasq.svg)
 
@@ -67,7 +67,7 @@
 
 ![dockur/portainer-backup](./charts/dockur-portainer-backup.svg)
 
-#### qemus/virtiso: 130 ★ (0)
+#### qemus/virtiso: 131 ★ (+1)
 
 ![qemus/virtiso](./charts/qemus-virtiso.svg)
 
@@ -79,7 +79,7 @@
 
 ![dockur/statping](./charts/dockur-statping.svg)
 
-#### qemus/virtiso-whql: 63 ★ (0)
+#### qemus/virtiso-whql: 64 ★ (+1)
 
 ![qemus/virtiso-whql](./charts/qemus-virtiso-whql.svg)
 
@@ -111,9 +111,13 @@
 
 ![dockur/lemmy-ui](./charts/dockur-lemmy-ui.svg)
 
-#### action-pack/gitlab-sync: 20 ★ (0)
+#### action-pack/gitlab-sync: 19 ★ (-1)
 
 ![action-pack/gitlab-sync](./charts/action-pack-gitlab-sync.svg)
+
+#### qemus/virtiso-x86: 18 ★ (+1)
+
+![qemus/virtiso-x86](./charts/qemus-virtiso-x86.svg)
 
 #### dockur/proxmox-dm: 17 ★ (0)
 
@@ -122,10 +126,6 @@
 #### dockur/stunnel: 17 ★ (0)
 
 ![dockur/stunnel](./charts/dockur-stunnel.svg)
-
-#### qemus/virtiso-x86: 17 ★ (0)
-
-![qemus/virtiso-x86](./charts/qemus-virtiso-x86.svg)
 
 #### dobtc/bitcoin: 13 ★ (0)
 
@@ -203,7 +203,7 @@
 
 ![dockur/bitcoin](./charts/dockur-bitcoin.svg)
 
-#### qemus/fiano: 2 ★ (-1)
+#### qemus/fiano: 2 ★ (0)
 
 ![qemus/fiano](./charts/qemus-fiano.svg)
 
@@ -214,6 +214,22 @@
 #### qemus/qemouse: 2 ★ (0)
 
 ![qemus/qemouse](./charts/qemus-qemouse.svg)
+
+#### qemus/qemu-helios: 2 ★ (+1)
+
+![qemus/qemu-helios](./charts/qemus-qemu-helios.svg)
+
+#### qemus/qemu-vmvga: 2 ★ (+1)
+
+![qemus/qemu-vmvga](./charts/qemus-qemu-vmvga.svg)
+
+#### qemus/virtio-d3d11: 2 ★ (+1)
+
+![qemus/virtio-d3d11](./charts/qemus-virtio-d3d11.svg)
+
+#### qemus/virtio-drivers-windows: 2 ★ (+1)
+
+![qemus/virtio-drivers-windows](./charts/qemus-virtio-drivers-windows.svg)
 
 #### action-pack/bump: 1 ★ (0)
 
@@ -239,10 +255,6 @@
 
 ![qemus/qemu-bochs](./charts/qemus-qemu-bochs.svg)
 
-#### qemus/qemu-helios: 1 ★ (0)
-
-![qemus/qemu-helios](./charts/qemus-qemu-helios.svg)
-
 #### qemus/qemu-reims: 1 ★ (0)
 
 ![qemus/qemu-reims](./charts/qemus-qemu-reims.svg)
@@ -251,25 +263,13 @@
 
 ![qemus/qemu-render](./charts/qemus-qemu-render.svg)
 
-#### qemus/qemu-vmvga: 1 ★ (-1)
-
-![qemus/qemu-vmvga](./charts/qemus-qemu-vmvga.svg)
-
 #### qemus/udfread: 1 ★ (0)
 
 ![qemus/udfread](./charts/qemus-udfread.svg)
 
-#### qemus/virtio-d3d11: 1 ★ (0)
-
-![qemus/virtio-d3d11](./charts/qemus-virtio-d3d11.svg)
-
 #### qemus/virtio-drivers: 1 ★ (0)
 
 ![qemus/virtio-drivers](./charts/qemus-virtio-drivers.svg)
-
-#### qemus/virtio-drivers-windows: 1 ★ (0)
-
-![qemus/virtio-drivers-windows](./charts/qemus-virtio-drivers-windows.svg)
 
 #### qemus/websocketd: 1 ★ (0)
 
@@ -281,23 +281,23 @@
 
 | Repositories | Stars | Change | Trend |
 |:-----------|------:|-------:|:-----:|
-| [dockur/windows](https://github.com/dockur/windows) | 53140 | +11 | ⬆️ |
-| [dockur/macos](https://github.com/dockur/macos) | 21498 | +3 | ⬆️ |
+| [dockur/windows](https://github.com/dockur/windows) | 53152 | +12 | ⬆️ |
+| [dockur/macos](https://github.com/dockur/macos) | 21506 | +8 | ⬆️ |
 | [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) | 3980 | 0 | ➖ |
 | [dockur/windows-arm](https://github.com/dockur/windows-arm) | 2247 | 0 | ➖ |
-| [qemus/qemu](https://github.com/qemus/qemu) | 2120 | +1 | ⬆️ |
-| [dockur/samba](https://github.com/dockur/samba) | 797 | +2 | ⬆️ |
-| [dockur/umbrel](https://github.com/dockur/umbrel) | 409 | 0 | ➖ |
+| [qemus/qemu](https://github.com/qemus/qemu) | 2120 | 0 | ➖ |
+| [dockur/samba](https://github.com/dockur/samba) | 798 | +1 | ⬆️ |
+| [dockur/umbrel](https://github.com/dockur/umbrel) | 410 | +1 | ⬆️ |
 | [dockur/proxmox](https://github.com/dockur/proxmox) | 305 | 0 | ➖ |
 | [dockur/casa](https://github.com/dockur/casa) | 220 | 0 | ➖ |
-| [dockur/tor](https://github.com/dockur/tor) | 220 | 0 | ➖ |
+| [dockur/tor](https://github.com/dockur/tor) | 218 | -2 | ⬇️ |
 | [qemus/qemu-arm](https://github.com/qemus/qemu-arm) | 210 | 0 | ➖ |
-| [dockur/dnsmasq](https://github.com/dockur/dnsmasq) | 162 | 0 | ➖ |
+| [dockur/dnsmasq](https://github.com/dockur/dnsmasq) | 161 | -1 | ⬇️ |
 | [dockur/portainer-backup](https://github.com/dockur/portainer-backup) | 136 | 0 | ➖ |
-| [qemus/virtiso](https://github.com/qemus/virtiso) | 130 | 0 | ➖ |
+| [qemus/virtiso](https://github.com/qemus/virtiso) | 131 | +1 | ⬆️ |
 | [dockur/chrony](https://github.com/dockur/chrony) | 117 | 0 | ➖ |
 | [dockur/statping](https://github.com/dockur/statping) | 76 | 0 | ➖ |
-| [qemus/virtiso-whql](https://github.com/qemus/virtiso-whql) | 63 | 0 | ➖ |
+| [qemus/virtiso-whql](https://github.com/qemus/virtiso-whql) | 64 | +1 | ⬆️ |
 | [dockur/munin](https://github.com/dockur/munin) | 45 | 0 | ➖ |
 | [dockur/proxmox-backup](https://github.com/dockur/proxmox-backup) | 29 | 0 | ➖ |
 | [dockur/zima](https://github.com/dockur/zima) | 29 | 0 | ➖ |
@@ -305,10 +305,10 @@
 | [qemus/virtiso-arm](https://github.com/qemus/virtiso-arm) | 28 | 0 | ➖ |
 | [dockur/strfry](https://github.com/dockur/strfry) | 23 | 0 | ➖ |
 | [dockur/lemmy-ui](https://github.com/dockur/lemmy-ui) | 22 | 0 | ➖ |
-| [action-pack/gitlab-sync](https://github.com/action-pack/gitlab-sync) | 20 | 0 | ➖ |
+| [action-pack/gitlab-sync](https://github.com/action-pack/gitlab-sync) | 19 | -1 | ⬇️ |
+| [qemus/virtiso-x86](https://github.com/qemus/virtiso-x86) | 18 | +1 | ⬆️ |
 | [dockur/proxmox-dm](https://github.com/dockur/proxmox-dm) | 17 | 0 | ➖ |
 | [dockur/stunnel](https://github.com/dockur/stunnel) | 17 | 0 | ➖ |
-| [qemus/virtiso-x86](https://github.com/qemus/virtiso-x86) | 17 | 0 | ➖ |
 | [dobtc/bitcoin](https://github.com/dobtc/bitcoin) | 13 | 0 | ➖ |
 | [dockur/lemmy](https://github.com/dockur/lemmy) | 13 | 0 | ➖ |
 | [dockur/chromeos](https://github.com/dockur/chromeos) | 11 | 0 | ➖ |
@@ -328,45 +328,45 @@
 | [action-pack/set-variable](https://github.com/action-pack/set-variable) | 2 | 0 | ➖ |
 | [action-pack/tag-exists](https://github.com/action-pack/tag-exists) | 2 | 0 | ➖ |
 | [dockur/bitcoin](https://github.com/dockur/bitcoin) | 2 | 0 | ➖ |
-| [qemus/fiano](https://github.com/qemus/fiano) | 2 | -1 | ⬇️ |
+| [qemus/fiano](https://github.com/qemus/fiano) | 2 | 0 | ➖ |
 | [qemus/proxmox-mail-arm64](https://github.com/qemus/proxmox-mail-arm64) | 2 | 0 | ➖ |
 | [qemus/qemouse](https://github.com/qemus/qemouse) | 2 | 0 | ➖ |
+| [qemus/qemu-helios](https://github.com/qemus/qemu-helios) | 2 | +1 | ⬆️ |
+| [qemus/qemu-vmvga](https://github.com/qemus/qemu-vmvga) | 2 | +1 | ⬆️ |
+| [qemus/virtio-d3d11](https://github.com/qemus/virtio-d3d11) | 2 | +1 | ⬆️ |
+| [qemus/virtio-drivers-windows](https://github.com/qemus/virtio-drivers-windows) | 2 | +1 | ⬆️ |
 | [action-pack/bump](https://github.com/action-pack/bump) | 1 | 0 | ➖ |
 | [action-pack/github-release](https://github.com/action-pack/github-release) | 1 | 0 | ➖ |
 | [action-pack/send-mail](https://github.com/action-pack/send-mail) | 1 | 0 | ➖ |
 | [dobtc/btc-rpc-proxy](https://github.com/dobtc/btc-rpc-proxy) | 1 | 0 | ➖ |
 | [qemus/boot-logo](https://github.com/qemus/boot-logo) | 1 | 0 | ➖ |
 | [qemus/qemu-bochs](https://github.com/qemus/qemu-bochs) | 1 | 0 | ➖ |
-| [qemus/qemu-helios](https://github.com/qemus/qemu-helios) | 1 | 0 | ➖ |
 | [qemus/qemu-reims](https://github.com/qemus/qemu-reims) | 1 | 0 | ➖ |
 | [qemus/qemu-render](https://github.com/qemus/qemu-render) | 1 | 0 | ➖ |
-| [qemus/qemu-vmvga](https://github.com/qemus/qemu-vmvga) | 1 | -1 | ⬇️ |
 | [qemus/udfread](https://github.com/qemus/udfread) | 1 | 0 | ➖ |
-| [qemus/virtio-d3d11](https://github.com/qemus/virtio-d3d11) | 1 | 0 | ➖ |
 | [qemus/virtio-drivers](https://github.com/qemus/virtio-drivers) | 1 | 0 | ➖ |
-| [qemus/virtio-drivers-windows](https://github.com/qemus/virtio-drivers-windows) | 1 | 0 | ➖ |
 | [qemus/websocketd](https://github.com/qemus/websocketd) | 1 | 0 | ➖ |
 
 ## Summary
 
-- **Stars gained:** 17
-- **Stars lost:** 2
-- **Net change:** +15
+- **Stars gained:** 29
+- **Stars lost:** 4
+- **Net change:** +25
 
 ## 🔮 Growth Forecast
 
 ### 🚀 Growth Velocity
 
-- **Stars per day:** 14.94
+- **Stars per day:** 25.04
 - **Growth:** +0%
-- ~920 days to 100000 ★
+- ~548 days to 100000 ★
 
 **Aggregate Forecast**
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 86822 | 87382 | 87943 | 88503 |
-| Weighted Moving Average | 86803 | 87345 | 87886 | 88428 |
+| Linear Regression | 86849 | 87412 | 87975 | 88538 |
+| Weighted Moving Average | 86825 | 87365 | 87904 | 88443 |
 
 ![Growth Forecast](./charts/forecast.svg)
 
@@ -379,8 +379,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 53512 | 53883 | 54255 | 54627 |
-| Weighted Moving Average | 53458 | 53777 | 54095 | 54414 |
+| Linear Regression | 53524 | 53895 | 54267 | 54638 |
+| Weighted Moving Average | 53470 | 53788 | 54106 | 54424 |
 
 </details>
 
@@ -391,8 +391,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 21688 | 21879 | 22069 | 22259 |
-| Weighted Moving Average | 21652 | 21805 | 21959 | 22113 |
+| Linear Regression | 21700 | 21894 | 22088 | 22282 |
+| Weighted Moving Average | 21654 | 21802 | 21950 | 22098 |
 
 </details>
 
@@ -404,7 +404,7 @@
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
 | Linear Regression | 4001 | 4022 | 4043 | 4064 |
-| Weighted Moving Average | 3997 | 4015 | 4032 | 4050 |
+| Weighted Moving Average | 3997 | 4015 | 4032 | 4049 |
 
 </details>
 
@@ -427,7 +427,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 2133 | 2145 | 2158 | 2170 |
+| Linear Regression | 2133 | 2145 | 2158 | 2171 |
 | Weighted Moving Average | 2136 | 2152 | 2168 | 2184 |
 
 </details>
@@ -439,8 +439,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 803 | 810 | 816 | 823 |
-| Weighted Moving Average | 804 | 810 | 817 | 823 |
+| Linear Regression | 804 | 811 | 817 | 824 |
+| Weighted Moving Average | 805 | 811 | 818 | 824 |
 
 </details>
 
@@ -451,8 +451,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 413 | 416 | 420 | 424 |
-| Weighted Moving Average | 412 | 415 | 418 | 421 |
+| Linear Regression | 414 | 417 | 421 | 425 |
+| Weighted Moving Average | 413 | 416 | 419 | 422 |
 
 </details>
 
@@ -463,8 +463,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 317 | 329 | 340 | 352 |
-| Weighted Moving Average | 313 | 321 | 330 | 338 |
+| Linear Regression | 317 | 328 | 340 | 352 |
+| Weighted Moving Average | 313 | 321 | 329 | 337 |
 
 </details>
 
@@ -487,8 +487,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 222 | 223 | 225 | 227 |
-| Weighted Moving Average | 222 | 224 | 225 | 227 |
+| Linear Regression | 220 | 221 | 223 | 225 |
+| Weighted Moving Average | 220 | 222 | 223 | 225 |
 
 </details>
 
@@ -511,8 +511,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 163 | 165 | 166 | 167 |
-| Weighted Moving Average | 163 | 165 | 166 | 167 |
+| Linear Regression | 162 | 164 | 165 | 166 |
+| Weighted Moving Average | 162 | 164 | 165 | 166 |
 
 </details>
 
@@ -535,8 +535,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 131 | 132 | 133 | 134 |
-| Weighted Moving Average | 131 | 132 | 133 | 134 |
+| Linear Regression | 132 | 133 | 134 | 135 |
+| Weighted Moving Average | 132 | 133 | 134 | 135 |
 
 </details>
 
@@ -571,8 +571,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 64 | 64 | 65 | 66 |
-| Weighted Moving Average | 64 | 64 | 65 | 66 |
+| Linear Regression | 65 | 65 | 66 | 67 |
+| Weighted Moving Average | 65 | 65 | 66 | 67 |
 
 </details>
 
@@ -608,7 +608,7 @@
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
 | Linear Regression | 31 | 33 | 34 | 36 |
-| Weighted Moving Average | 30 | 31 | 32 | 34 |
+| Weighted Moving Average | 30 | 31 | 32 | 33 |
 
 </details>
 
@@ -667,8 +667,20 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 20 | 20 | 20 | 20 |
-| Weighted Moving Average | 20 | 20 | 20 | 20 |
+| Linear Regression | 19 | 19 | 19 | 19 |
+| Weighted Moving Average | 19 | 19 | 19 | 19 |
+
+</details>
+
+<details>
+<summary>qemus/virtiso-x86</summary>
+
+**qemus/virtiso-x86**
+
+| Method | Week 1 | Week 2 | Week 3 | Week 4 |
+|:---|---:|---:|---:|---:|
+| Linear Regression | 18 | 18 | 18 | 19 |
+| Weighted Moving Average | 18 | 18 | 18 | 19 |
 
 </details>
 
@@ -693,18 +705,6 @@
 |:---|---:|---:|---:|---:|
 | Linear Regression | 17 | 18 | 18 | 18 |
 | Weighted Moving Average | 17 | 18 | 18 | 18 |
-
-</details>
-
-<details>
-<summary>qemus/virtiso-x86</summary>
-
-**qemus/virtiso-x86**
-
-| Method | Week 1 | Week 2 | Week 3 | Week 4 |
-|:---|---:|---:|---:|---:|
-| Linear Regression | 17 | 17 | 17 | 18 |
-| Weighted Moving Average | 17 | 17 | 17 | 17 |
 
 </details>
 
@@ -823,7 +823,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 9 | 10 | 10 | 11 |
+| Linear Regression | 9 | 9 | 10 | 11 |
 | Weighted Moving Average | 9 | 9 | 10 | 11 |
 
 </details>
@@ -973,6 +973,54 @@
 </details>
 
 <details>
+<summary>qemus/qemu-helios</summary>
+
+**qemus/qemu-helios**
+
+| Method | Week 1 | Week 2 | Week 3 | Week 4 |
+|:---|---:|---:|---:|---:|
+| Linear Regression | 2 | 2 | 3 | 3 |
+| Weighted Moving Average | 3 | 4 | 5 | 7 |
+
+</details>
+
+<details>
+<summary>qemus/qemu-vmvga</summary>
+
+**qemus/qemu-vmvga**
+
+| Method | Week 1 | Week 2 | Week 3 | Week 4 |
+|:---|---:|---:|---:|---:|
+| Linear Regression | 4 | 7 | 9 | 11 |
+| Weighted Moving Average | 2 | 2 | 2 | 2 |
+
+</details>
+
+<details>
+<summary>qemus/virtio-d3d11</summary>
+
+**qemus/virtio-d3d11**
+
+| Method | Week 1 | Week 2 | Week 3 | Week 4 |
+|:---|---:|---:|---:|---:|
+| Linear Regression | 4 | 5 | 7 | 9 |
+| Weighted Moving Average | 2 | 2 | 2 | 2 |
+
+</details>
+
+<details>
+<summary>qemus/virtio-drivers-windows</summary>
+
+**qemus/virtio-drivers-windows**
+
+| Method | Week 1 | Week 2 | Week 3 | Week 4 |
+|:---|---:|---:|---:|---:|
+| Linear Regression | 4 | 5 | 7 | 9 |
+| Weighted Moving Average | 2 | 2 | 2 | 2 |
+
+</details>
+
+<details>
 <summary>action-pack/bump</summary>
 
 **action-pack/bump**
@@ -1045,18 +1093,6 @@
 </details>
 
 <details>
-<summary>qemus/qemu-helios</summary>
-
-**qemus/qemu-helios**
-
-| Method | Week 1 | Week 2 | Week 3 | Week 4 |
-|:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 1 | 1 | 1 |
-| Weighted Moving Average | 1 | 1 | 1 | 1 |
-
-</details>
-
-<details>
 <summary>qemus/qemu-reims</summary>
 
 **qemus/qemu-reims**
@@ -1081,33 +1117,9 @@
 </details>
 
 <details>
-<summary>qemus/qemu-vmvga</summary>
-
-**qemus/qemu-vmvga**
-
-| Method | Week 1 | Week 2 | Week 3 | Week 4 |
-|:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 1 | 1 | 1 |
-| Weighted Moving Average | 1 | 1 | 1 | 1 |
-
-</details>
-
-<details>
 <summary>qemus/udfread</summary>
 
 **qemus/udfread**
-
-| Method | Week 1 | Week 2 | Week 3 | Week 4 |
-|:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 1 | 1 | 1 |
-| Weighted Moving Average | 1 | 1 | 1 | 1 |
-
-</details>
-
-<details>
-<summary>qemus/virtio-d3d11</summary>
-
-**qemus/virtio-d3d11**
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
@@ -1129,18 +1141,6 @@
 </details>
 
 <details>
-<summary>qemus/virtio-drivers-windows</summary>
-
-**qemus/virtio-drivers-windows**
-
-| Method | Week 1 | Week 2 | Week 3 | Week 4 |
-|:---|---:|---:|---:|---:|
-| Linear Regression | 1 | 1 | 1 | 1 |
-| Weighted Moving Average | 1 | 1 | 1 | 1 |
-
-</details>
-
-<details>
 <summary>qemus/websocketd</summary>
 
 **qemus/websocketd**
@@ -1153,7 +1153,7 @@
 </details>
 
 ---
-*Generated by [GitHub Star Tracker](https://github.com/fbuireu/github-star-tracker) on 2026-09-03T02:50:06.549Z*
+*Generated by [GitHub Star Tracker](https://github.com/fbuireu/github-star-tracker) on 2026-09-04T02:47:52.537Z*
 <div align="center">
 
 *Made with 🤘 by [Ferran Buireu](https://github.com/fbuireu)*
