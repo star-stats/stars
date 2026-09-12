@@ -1,8 +1,8 @@
 # Star Tracker Report
 
-**2026-09-11** | Total: **86417 stars** | Change: **+22**
+**2026-09-12** | Total: **86436 stars** | Change: **+19**
 
-> Compared to snapshot from 2026-09-10
+> Compared to snapshot from 2026-09-11
 
 ## 📈 Star Trend
 
@@ -15,27 +15,27 @@
 <details>
 <summary>Individual Repository Charts</summary>
 
-#### dockur/windows: 53224 ★ (+13)
+#### dockur/windows: 53237 ★ (+13)
 
 ![dockur/windows](./charts/dockur-windows.svg)
 
-#### dockur/macos: 21529 ★ (+2)
+#### dockur/macos: 21531 ★ (+2)
 
 ![dockur/macos](./charts/dockur-macos.svg)
 
-#### vdsm/virtual-dsm: 3982 ★ (+1)
+#### vdsm/virtual-dsm: 3982 ★ (0)
 
 ![vdsm/virtual-dsm](./charts/vdsm-virtual-dsm.svg)
 
-#### dockur/windows-arm: 2252 ★ (0)
+#### dockur/windows-arm: 2253 ★ (+1)
 
 ![dockur/windows-arm](./charts/dockur-windows-arm.svg)
 
-#### qemus/qemu: 2126 ★ (+2)
+#### qemus/qemu: 2127 ★ (+1)
 
 ![qemus/qemu](./charts/qemus-qemu.svg)
 
-#### dockur/samba: 803 ★ (+1)
+#### dockur/samba: 803 ★ (0)
 
 ![dockur/samba](./charts/dockur-samba.svg)
 
@@ -43,7 +43,7 @@
 
 ![dockur/umbrel](./charts/dockur-umbrel.svg)
 
-#### dockur/proxmox: 306 ★ (+1)
+#### dockur/proxmox: 307 ★ (+1)
 
 ![dockur/proxmox](./charts/dockur-proxmox.svg)
 
@@ -99,7 +99,7 @@
 
 ![qemus/qemu-host](./charts/qemus-qemu-host.svg)
 
-#### qemus/virtiso-arm: 28 ★ (0)
+#### qemus/virtiso-arm: 29 ★ (+1)
 
 ![qemus/virtiso-arm](./charts/qemus-virtiso-arm.svg)
 
@@ -115,7 +115,7 @@
 
 ![action-pack/gitlab-sync](./charts/action-pack-gitlab-sync.svg)
 
-#### dockur/proxmox-dm: 18 ★ (+1)
+#### dockur/proxmox-dm: 18 ★ (0)
 
 ![dockur/proxmox-dm](./charts/dockur-proxmox-dm.svg)
 
@@ -199,7 +199,7 @@
 
 ![qemus/proxmox-mail-arm64](./charts/qemus-proxmox-mail-arm64.svg)
 
-#### qemus/qemu-macos: 3 ★ (+1)
+#### qemus/qemu-macos: 3 ★ (0)
 
 ![qemus/qemu-macos](./charts/qemus-qemu-macos.svg)
 
@@ -281,14 +281,14 @@
 
 | Repositories | Stars | Change | Trend |
 |:-----------|------:|-------:|:-----:|
-| [dockur/windows](https://github.com/dockur/windows) | 53224 | +13 | ⬆️ |
-| [dockur/macos](https://github.com/dockur/macos) | 21529 | +2 | ⬆️ |
-| [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) | 3982 | +1 | ⬆️ |
-| [dockur/windows-arm](https://github.com/dockur/windows-arm) | 2252 | 0 | ➖ |
-| [qemus/qemu](https://github.com/qemus/qemu) | 2126 | +2 | ⬆️ |
-| [dockur/samba](https://github.com/dockur/samba) | 803 | +1 | ⬆️ |
+| [dockur/windows](https://github.com/dockur/windows) | 53237 | +13 | ⬆️ |
+| [dockur/macos](https://github.com/dockur/macos) | 21531 | +2 | ⬆️ |
+| [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) | 3982 | 0 | ➖ |
+| [dockur/windows-arm](https://github.com/dockur/windows-arm) | 2253 | +1 | ⬆️ |
+| [qemus/qemu](https://github.com/qemus/qemu) | 2127 | +1 | ⬆️ |
+| [dockur/samba](https://github.com/dockur/samba) | 803 | 0 | ➖ |
 | [dockur/umbrel](https://github.com/dockur/umbrel) | 411 | 0 | ➖ |
-| [dockur/proxmox](https://github.com/dockur/proxmox) | 306 | +1 | ⬆️ |
+| [dockur/proxmox](https://github.com/dockur/proxmox) | 307 | +1 | ⬆️ |
 | [dockur/casa](https://github.com/dockur/casa) | 222 | 0 | ➖ |
 | [dockur/tor](https://github.com/dockur/tor) | 218 | 0 | ➖ |
 | [qemus/qemu-arm](https://github.com/qemus/qemu-arm) | 210 | 0 | ➖ |
@@ -302,11 +302,11 @@
 | [dockur/zima](https://github.com/dockur/zima) | 31 | 0 | ➖ |
 | [dockur/proxmox-backup](https://github.com/dockur/proxmox-backup) | 30 | 0 | ➖ |
 | [qemus/qemu-host](https://github.com/qemus/qemu-host) | 29 | 0 | ➖ |
-| [qemus/virtiso-arm](https://github.com/qemus/virtiso-arm) | 28 | 0 | ➖ |
+| [qemus/virtiso-arm](https://github.com/qemus/virtiso-arm) | 29 | +1 | ⬆️ |
 | [dockur/strfry](https://github.com/dockur/strfry) | 23 | 0 | ➖ |
 | [dockur/lemmy-ui](https://github.com/dockur/lemmy-ui) | 22 | 0 | ➖ |
 | [action-pack/gitlab-sync](https://github.com/action-pack/gitlab-sync) | 19 | 0 | ➖ |
-| [dockur/proxmox-dm](https://github.com/dockur/proxmox-dm) | 18 | +1 | ⬆️ |
+| [dockur/proxmox-dm](https://github.com/dockur/proxmox-dm) | 18 | 0 | ➖ |
 | [qemus/virtiso-x86](https://github.com/qemus/virtiso-x86) | 18 | 0 | ➖ |
 | [dockur/stunnel](https://github.com/dockur/stunnel) | 17 | 0 | ➖ |
 | [dobtc/bitcoin](https://github.com/dobtc/bitcoin) | 13 | 0 | ➖ |
@@ -327,7 +327,7 @@
 | [dockur/mdns](https://github.com/dockur/mdns) | 3 | 0 | ➖ |
 | [qemus/proxmox](https://github.com/qemus/proxmox) | 3 | 0 | ➖ |
 | [qemus/proxmox-mail-arm64](https://github.com/qemus/proxmox-mail-arm64) | 3 | 0 | ➖ |
-| [qemus/qemu-macos](https://github.com/qemus/qemu-macos) | 3 | +1 | ⬆️ |
+| [qemus/qemu-macos](https://github.com/qemus/qemu-macos) | 3 | 0 | ➖ |
 | [action-pack/set-variable](https://github.com/action-pack/set-variable) | 2 | 0 | ➖ |
 | [action-pack/tag-exists](https://github.com/action-pack/tag-exists) | 2 | 0 | ➖ |
 | [dockur/bitcoin](https://github.com/dockur/bitcoin) | 2 | 0 | ➖ |
@@ -349,24 +349,24 @@
 
 ## Summary
 
-- **Stars gained:** 22
+- **Stars gained:** 19
 - **Stars lost:** 0
-- **Net change:** +22
+- **Net change:** +19
 
 ## 🔮 Growth Forecast
 
 ### 🚀 Growth Velocity
 
-- **Stars per day:** 22.09
+- **Stars per day:** 18.9
 - **Growth:** +0%
-- ~615 days to 100000 ★
+- ~718 days to 100000 ★
 
 **Aggregate Forecast**
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 86977 | 87537 | 88097 | 88657 |
-| Weighted Moving Average | 86953 | 87490 | 88026 | 88563 |
+| Linear Regression | 86996 | 87556 | 88115 | 88675 |
+| Weighted Moving Average | 86972 | 87508 | 88043 | 88579 |
 
 ![Growth Forecast](./charts/forecast.svg)
 
@@ -379,8 +379,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 53591 | 53959 | 54326 | 54693 |
-| Weighted Moving Average | 53538 | 53853 | 54167 | 54482 |
+| Linear Regression | 53603 | 53970 | 54336 | 54702 |
+| Weighted Moving Average | 53551 | 53864 | 54178 | 54492 |
 
 ![dockur/windows](./charts/forecast-dockur-windows.svg)
 
@@ -393,8 +393,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 21720 | 21912 | 22103 | 22295 |
-| Weighted Moving Average | 21675 | 21821 | 21967 | 22113 |
+| Linear Regression | 21722 | 21913 | 22104 | 22296 |
+| Weighted Moving Average | 21677 | 21823 | 21969 | 22115 |
 
 ![dockur/macos](./charts/forecast-dockur-macos.svg)
 
@@ -421,8 +421,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 2268 | 2285 | 2301 | 2317 |
-| Weighted Moving Average | 2265 | 2277 | 2290 | 2302 |
+| Linear Regression | 2269 | 2286 | 2302 | 2318 |
+| Weighted Moving Average | 2266 | 2278 | 2291 | 2303 |
 
 ![dockur/windows-arm](./charts/forecast-dockur-windows-arm.svg)
 
@@ -435,8 +435,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 2139 | 2151 | 2164 | 2177 |
-| Weighted Moving Average | 2142 | 2158 | 2173 | 2189 |
+| Linear Regression | 2140 | 2152 | 2165 | 2178 |
+| Weighted Moving Average | 2143 | 2159 | 2174 | 2190 |
 
 ![qemus/qemu](./charts/forecast-qemus-qemu.svg)
 
@@ -477,8 +477,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 317 | 328 | 339 | 350 |
-| Weighted Moving Average | 313 | 320 | 328 | 335 |
+| Linear Regression | 318 | 329 | 340 | 351 |
+| Weighted Moving Average | 314 | 322 | 329 | 336 |
 
 ![dockur/proxmox](./charts/forecast-dockur-proxmox.svg)
 
@@ -646,7 +646,7 @@
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
 | Linear Regression | 33 | 35 | 38 | 40 |
-| Weighted Moving Average | 32 | 34 | 36 | 37 |
+| Weighted Moving Average | 32 | 34 | 35 | 37 |
 
 ![dockur/proxmox-backup](./charts/forecast-dockur-proxmox-backup.svg)
 
@@ -673,8 +673,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 28 | 28 | 29 | 29 |
-| Weighted Moving Average | 28 | 29 | 29 | 29 |
+| Linear Regression | 29 | 29 | 30 | 30 |
+| Weighted Moving Average | 29 | 30 | 30 | 30 |
 
 ![qemus/virtiso-arm](./charts/forecast-qemus-virtiso-arm.svg)
 
@@ -855,7 +855,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 10 | 11 | 11 | 12 |
+| Linear Regression | 10 | 10 | 11 | 12 |
 | Weighted Moving Average | 10 | 10 | 11 | 12 |
 
 ![dockur/proxmox-mail](./charts/forecast-dockur-proxmox-mail.svg)
@@ -883,7 +883,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 10 | 10 | 11 | 12 |
+| Linear Regression | 10 | 10 | 11 | 11 |
 | Weighted Moving Average | 9 | 10 | 10 | 11 |
 
 ![dockur/virtual-dsm](./charts/forecast-dockur-virtual-dsm.svg)
@@ -953,8 +953,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 6 | 8 | 11 | 13 |
-| Weighted Moving Average | 6 | 8 | 10 | 12 |
+| Linear Regression | 6 | 8 | 10 | 12 |
+| Weighted Moving Average | 6 | 8 | 9 | 11 |
 
 ![qemus/qemu-vmvga](./charts/forecast-qemus-qemu-vmvga.svg)
 
@@ -1023,8 +1023,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 4 | 4 | 5 | 5 |
-| Weighted Moving Average | 4 | 6 | 7 | 8 |
+| Linear Regression | 4 | 4 | 5 | 6 |
+| Weighted Moving Average | 4 | 5 | 7 | 8 |
 
 ![qemus/qemu-macos](./charts/forecast-qemus-qemu-macos.svg)
 
@@ -1107,7 +1107,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 3 | 5 | 6 | 7 |
+| Linear Regression | 3 | 4 | 6 | 7 |
 | Weighted Moving Average | 3 | 4 | 5 | 6 |
 
 ![qemus/qemu-helios](./charts/forecast-qemus-qemu-helios.svg)
@@ -1121,7 +1121,7 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 5 | 7 | 10 | 13 |
+| Linear Regression | 4 | 6 | 8 | 11 |
 | Weighted Moving Average | 2 | 2 | 2 | 2 |
 
 ![qemus/qemu-windows](./charts/forecast-qemus-qemu-windows.svg)
@@ -1135,8 +1135,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 3 | 4 | 4 | 5 |
-| Weighted Moving Average | 2 | 3 | 3 | 4 |
+| Linear Regression | 3 | 3 | 4 | 5 |
+| Weighted Moving Average | 2 | 3 | 3 | 3 |
 
 ![qemus/virtio-d3d11](./charts/forecast-qemus-virtio-d3d11.svg)
 
@@ -1149,8 +1149,8 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 3 | 4 | 4 | 5 |
-| Weighted Moving Average | 2 | 3 | 3 | 4 |
+| Linear Regression | 3 | 3 | 4 | 5 |
+| Weighted Moving Average | 2 | 3 | 3 | 3 |
 
 ![qemus/virtio-drivers-windows](./charts/forecast-qemus-virtio-drivers-windows.svg)
 
@@ -1283,7 +1283,7 @@
 </details>
 
 ---
-*Generated by [GitHub Star Tracker](https://github.com/fbuireu/github-star-tracker) on 2026-09-11T02:52:46.982Z*
+*Generated by [GitHub Star Tracker](https://github.com/fbuireu/github-star-tracker) on 2026-09-12T03:00:13.158Z*
 <div align="center">
 
 *Made with 🤘 by [Ferran Buireu](https://github.com/fbuireu)*
