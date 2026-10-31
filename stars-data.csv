@@ -15,10 +15,10 @@ dockur/bitcoin,dockur,bitcoin,3,3,0,active
 dockur/casa,dockur,casa,226,226,0,active
 dockur/chromeos,dockur,chromeos,14,14,0,active
 dockur/chrony,dockur,chrony,119,119,0,active
-dockur/dnsmasq,dockur,dnsmasq,168,167,1,active
+dockur/dnsmasq,dockur,dnsmasq,170,168,2,active
 dockur/lemmy,dockur,lemmy,14,14,0,active
 dockur/lemmy-ui,dockur,lemmy-ui,23,23,0,active
-dockur/macos,dockur,macos,21695,21690,5,active
+dockur/macos,dockur,macos,21699,21695,4,active
 dockur/mdns,dockur,mdns,6,6,0,active
 dockur/munin,dockur,munin,49,49,0,active
 dockur/piefed,dockur,piefed,8,8,0,active
@@ -28,15 +28,15 @@ dockur/proxmox-backup,dockur,proxmox-backup,43,43,0,active
 dockur/proxmox-dm,dockur,proxmox-dm,22,22,0,active
 dockur/proxmox-mail,dockur,proxmox-mail,14,14,0,active
 dockur/qemu,dockur,qemu,14,14,0,active
-dockur/samba,dockur,samba,828,827,1,active
+dockur/samba,dockur,samba,829,828,1,active
 dockur/statping,dockur,statping,78,78,0,active
 dockur/strfry,dockur,strfry,23,23,0,active
 dockur/stunnel,dockur,stunnel,20,20,0,active
 dockur/tor,dockur,tor,225,225,0,active
 dockur/umbrel,dockur,umbrel,434,434,0,active
 dockur/virtual-dsm,dockur,virtual-dsm,11,11,0,active
-dockur/windows,dockur,windows,53831,53715,116,active
-dockur/windows-arm,dockur,windows-arm,2260,2260,0,active
+dockur/windows,dockur,windows,53922,53831,91,active
+dockur/windows-arm,dockur,windows-arm,2259,2260,-1,active
 dockur/zima,dockur,zima,40,40,0,active
 qemus/boot-logo,qemus,boot-logo,2,2,0,active
 qemus/fiano,qemus,fiano,2,2,0,active
@@ -46,7 +46,7 @@ qemus/proxmox-backup-arm64,qemus,proxmox-backup-arm64,11,11,0,active
 qemus/proxmox-datacenter-arm64,qemus,proxmox-datacenter-arm64,7,7,0,active
 qemus/proxmox-mail-arm64,qemus,proxmox-mail-arm64,3,3,0,active
 qemus/qemouse,qemus,qemouse,5,5,0,active
-qemus/qemu,qemus,qemu,2171,2171,0,active
+qemus/qemu,qemus,qemu,2172,2171,1,active
 qemus/qemu-arm,qemus,qemu-arm,215,215,0,active
 qemus/qemu-bochs,qemus,qemu-bochs,2,2,0,active
 qemus/qemu-host,qemus,qemu-host,29,29,0,active
@@ -61,4 +61,4 @@ qemus/virtiso-arm,qemus,virtiso-arm,30,30,0,active
 qemus/virtiso-whql,qemus,virtiso-whql,69,69,0,active
 qemus/virtiso-x86,qemus,virtiso-x86,20,20,0,active
 qemus/websocketd,qemus,websocketd,1,1,0,active
-vdsm/virtual-dsm,vdsm,virtual-dsm,4025,4023,2,active
+vdsm/virtual-dsm,vdsm,virtual-dsm,4025,4025,0,active
