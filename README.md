@@ -1,271 +1,271 @@
 # Star Tracker Report
 
-**2026-11-13** | Total: **87981 stars** | Change: **+19**
+**2026-11-14** | Total: **88007 stars** | Change: **+26**
 
-> Compared to snapshot from 2026-11-12
+> Compared to snapshot from 2026-11-13
 
 ## 📈 Star Trend
 
-![Star History](./charts/star-history.svg)
+![Star history from 2023-04-01 to 2026-11-14: 1 to 88007 stars](./charts/star-history.svg)
 
 ### By Repository
 
-![Top Repositories](./charts/comparison.svg)
+![Stars per repository on 2026-11-14: dockur/windows with 54191 stars, dockur/macos with 21743 stars, vdsm/virtual-dsm with 4032 stars, dockur/windows-arm with 2275 stars, qemus/qemu with 2187 stars, dockur/samba with 839 stars, dockur/umbrel with 438 stars, dockur/proxmox with 342 stars, dockur/casa with 229 stars, dockur/tor with 229 stars](./charts/comparison.svg)
 
 <details>
 <summary>Individual Repository Charts</summary>
 
-#### dockur/windows: 54173 ★ (+8)
+#### dockur/windows: 54191 ★ (+18)
 
-![dockur/windows](./charts/dockur-windows.svg)
+![Star history of dockur/windows from 2024-01-15 to 2026-11-14: 13 to 54191 stars](./charts/dockur-windows.svg)
 
-#### dockur/macos: 21743 ★ (+2)
+#### dockur/macos: 21743 ★ (0)
 
-![dockur/macos](./charts/dockur-macos.svg)
+![Star history of dockur/macos from 2024-06-03 to 2026-11-14: 7 to 21743 stars](./charts/dockur-macos.svg)
 
-#### vdsm/virtual-dsm: 4030 ★ (+1)
+#### vdsm/virtual-dsm: 4032 ★ (+2)
 
-![vdsm/virtual-dsm](./charts/vdsm-virtual-dsm.svg)
+![Star history of vdsm/virtual-dsm from 2023-04-01 to 2026-11-14: 1 to 4032 stars](./charts/vdsm-virtual-dsm.svg)
 
-#### dockur/windows-arm: 2275 ★ (+1)
+#### dockur/windows-arm: 2275 ★ (0)
 
-![dockur/windows-arm](./charts/dockur-windows-arm.svg)
+![Star history of dockur/windows-arm from 2024-02-05 to 2026-11-14: 1 to 2275 stars](./charts/dockur-windows-arm.svg)
 
-#### qemus/qemu: 2186 ★ (+1)
+#### qemus/qemu: 2187 ★ (+1)
 
-![qemus/qemu](./charts/qemus-qemu.svg)
+![Star history of qemus/qemu from 2023-05-07 to 2026-11-14: 1 to 2187 stars](./charts/qemus-qemu.svg)
 
-#### dockur/samba: 838 ★ (0)
+#### dockur/samba: 839 ★ (+1)
 
-![dockur/samba](./charts/dockur-samba.svg)
+![Star history of dockur/samba from 2024-02-09 to 2026-11-14: 1 to 839 stars](./charts/dockur-samba.svg)
 
-#### dockur/umbrel: 438 ★ (+1)
+#### dockur/umbrel: 438 ★ (0)
 
-![dockur/umbrel](./charts/dockur-umbrel.svg)
+![Star history of dockur/umbrel from 2024-09-26 to 2026-11-14: 1 to 438 stars](./charts/dockur-umbrel.svg)
 
-#### dockur/proxmox: 341 ★ (+1)
+#### dockur/proxmox: 342 ★ (+1)
 
-![dockur/proxmox](./charts/dockur-proxmox.svg)
+![Star history of dockur/proxmox from 2026-05-27 to 2026-11-14: 1 to 342 stars](./charts/dockur-proxmox.svg)
 
-#### dockur/casa: 229 ★ (+1)
+#### dockur/casa: 229 ★ (0)
 
-![dockur/casa](./charts/dockur-casa.svg)
+![Star history of dockur/casa from 2024-11-10 to 2026-11-14: 1 to 229 stars](./charts/dockur-casa.svg)
 
 #### dockur/tor: 229 ★ (0)
 
-![dockur/tor](./charts/dockur-tor.svg)
+![Star history of dockur/tor from 2023-12-05 to 2026-11-14: 1 to 229 stars](./charts/dockur-tor.svg)
 
 #### qemus/qemu-arm: 215 ★ (0)
 
-![qemus/qemu-arm](./charts/qemus-qemu-arm.svg)
+![Star history of qemus/qemu-arm from 2024-02-21 to 2026-11-14: 1 to 215 stars](./charts/qemus-qemu-arm.svg)
 
 #### dockur/dnsmasq: 170 ★ (0)
 
-![dockur/dnsmasq](./charts/dockur-dnsmasq.svg)
+![Star history of dockur/dnsmasq from 2024-02-29 to 2026-11-14: 1 to 170 stars](./charts/dockur-dnsmasq.svg)
 
 #### qemus/virtiso: 146 ★ (0)
 
-![qemus/virtiso](./charts/qemus-virtiso.svg)
+![Star history of qemus/virtiso from 2024-01-20 to 2026-11-14: 1 to 146 stars](./charts/qemus-virtiso.svg)
 
 #### dockur/portainer-backup: 139 ★ (0)
 
-![dockur/portainer-backup](./charts/dockur-portainer-backup.svg)
+![Star history of dockur/portainer-backup from 2024-01-18 to 2026-11-14: 1 to 139 stars](./charts/dockur-portainer-backup.svg)
 
 #### dockur/chrony: 119 ★ (0)
 
-![dockur/chrony](./charts/dockur-chrony.svg)
+![Star history of dockur/chrony from 2023-11-24 to 2026-11-14: 1 to 119 stars](./charts/dockur-chrony.svg)
 
 #### dockur/statping: 78 ★ (0)
 
-![dockur/statping](./charts/dockur-statping.svg)
+![Star history of dockur/statping from 2024-02-09 to 2026-11-14: 1 to 78 stars](./charts/dockur-statping.svg)
 
 #### qemus/virtiso-whql: 69 ★ (0)
 
-![qemus/virtiso-whql](./charts/qemus-virtiso-whql.svg)
+![Star history of qemus/virtiso-whql from 2024-09-25 to 2026-11-14: 1 to 69 stars](./charts/qemus-virtiso-whql.svg)
 
 #### dockur/munin: 49 ★ (0)
 
-![dockur/munin](./charts/dockur-munin.svg)
+![Star history of dockur/munin from 2023-09-08 to 2026-11-14: 1 to 49 stars](./charts/dockur-munin.svg)
 
-#### dockur/proxmox-backup: 45 ★ (+1)
+#### dockur/proxmox-backup: 45 ★ (0)
 
-![dockur/proxmox-backup](./charts/dockur-proxmox-backup.svg)
+![Star history of dockur/proxmox-backup from 2026-06-10 to 2026-11-14: 1 to 45 stars](./charts/dockur-proxmox-backup.svg)
 
 #### qemus/qemu-vmvga: 44 ★ (0)
 
-![qemus/qemu-vmvga](./charts/qemus-qemu-vmvga.svg)
+![Star history of qemus/qemu-vmvga from 2026-09-01 to 2026-11-14: 1 to 44 stars](./charts/qemus-qemu-vmvga.svg)
 
-#### dockur/zima: 42 ★ (+1)
+#### dockur/zima: 42 ★ (0)
 
-![dockur/zima](./charts/dockur-zima.svg)
+![Star history of dockur/zima from 2026-05-25 to 2026-11-14: 1 to 42 stars](./charts/dockur-zima.svg)
 
 #### qemus/virtiso-arm: 30 ★ (0)
 
-![qemus/virtiso-arm](./charts/qemus-virtiso-arm.svg)
+![Star history of qemus/virtiso-arm from 2024-04-30 to 2026-11-14: 1 to 30 stars](./charts/qemus-virtiso-arm.svg)
 
 #### qemus/qemu-host: 29 ★ (0)
 
-![qemus/qemu-host](./charts/qemus-qemu-host.svg)
+![Star history of qemus/qemu-host from 2023-05-07 to 2026-11-14: 1 to 29 stars](./charts/qemus-qemu-host.svg)
 
 #### dockur/lemmy-ui: 23 ★ (0)
 
-![dockur/lemmy-ui](./charts/dockur-lemmy-ui.svg)
+![Star history of dockur/lemmy-ui from 2024-02-29 to 2026-11-14: 1 to 23 stars](./charts/dockur-lemmy-ui.svg)
 
 #### dockur/strfry: 23 ★ (0)
 
-![dockur/strfry](./charts/dockur-strfry.svg)
+![Star history of dockur/strfry from 2023-09-02 to 2026-11-14: 1 to 23 stars](./charts/dockur-strfry.svg)
 
 #### dockur/proxmox-dm: 22 ★ (0)
 
-![dockur/proxmox-dm](./charts/dockur-proxmox-dm.svg)
+![Star history of dockur/proxmox-dm from 2026-06-10 to 2026-11-14: 1 to 22 stars](./charts/dockur-proxmox-dm.svg)
 
 #### dockur/stunnel: 20 ★ (0)
 
-![dockur/stunnel](./charts/dockur-stunnel.svg)
+![Star history of dockur/stunnel from 2025-09-28 to 2026-11-14: 1 to 20 stars](./charts/dockur-stunnel.svg)
 
 #### qemus/virtiso-x86: 20 ★ (0)
 
-![qemus/virtiso-x86](./charts/qemus-virtiso-x86.svg)
+![Star history of qemus/virtiso-x86 from 2024-04-30 to 2026-11-14: 1 to 20 stars](./charts/qemus-virtiso-x86.svg)
 
 #### action-pack/gitlab-sync: 19 ★ (0)
 
-![action-pack/gitlab-sync](./charts/action-pack-gitlab-sync.svg)
+![Star history of action-pack/gitlab-sync from 2023-06-08 to 2026-11-14: 1 to 19 stars](./charts/action-pack-gitlab-sync.svg)
 
-#### qemus/passt: 17 ★ (0)
+#### qemus/passt: 18 ★ (+1)
 
-![qemus/passt](./charts/qemus-passt.svg)
+![Star history of qemus/passt from 2025-10-03 to 2026-11-14: 1 to 18 stars](./charts/qemus-passt.svg)
 
-#### dockur/chromeos: 15 ★ (0)
+#### dockur/chromeos: 16 ★ (+1)
 
-![dockur/chromeos](./charts/dockur-chromeos.svg)
+![Star history of dockur/chromeos from 2026-07-13 to 2026-11-14: 1 to 16 stars](./charts/dockur-chromeos.svg)
 
 #### dockur/lemmy: 14 ★ (0)
 
-![dockur/lemmy](./charts/dockur-lemmy.svg)
+![Star history of dockur/lemmy from 2024-03-01 to 2026-11-14: 1 to 14 stars](./charts/dockur-lemmy.svg)
 
 #### dockur/proxmox-mail: 14 ★ (0)
 
-![dockur/proxmox-mail](./charts/dockur-proxmox-mail.svg)
+![Star history of dockur/proxmox-mail from 2026-07-03 to 2026-11-14: 1 to 14 stars](./charts/dockur-proxmox-mail.svg)
 
 #### dockur/qemu: 14 ★ (0)
 
-![dockur/qemu](./charts/dockur-qemu.svg)
+![Star history of dockur/qemu from 2026-06-10 to 2026-11-14: 1 to 14 stars](./charts/dockur-qemu.svg)
 
 #### dobtc/bitcoin: 13 ★ (0)
 
-![dobtc/bitcoin](./charts/dobtc-bitcoin.svg)
+![Star history of dobtc/bitcoin from 2023-12-12 to 2026-11-14: 1 to 13 stars](./charts/dobtc-bitcoin.svg)
+
+#### qemus/proxmox-backup-arm64: 12 ★ (+1)
+
+![Star history of qemus/proxmox-backup-arm64 from 2026-07-01 to 2026-11-14: 1 to 12 stars](./charts/qemus-proxmox-backup-arm64.svg)
 
 #### dockur/virtual-dsm: 11 ★ (0)
 
-![dockur/virtual-dsm](./charts/dockur-virtual-dsm.svg)
-
-#### qemus/proxmox-backup-arm64: 11 ★ (0)
-
-![qemus/proxmox-backup-arm64](./charts/qemus-proxmox-backup-arm64.svg)
+![Star history of dockur/virtual-dsm from 2026-05-27 to 2026-11-14: 1 to 11 stars](./charts/dockur-virtual-dsm.svg)
 
 #### action-pack/increment: 9 ★ (0)
 
-![action-pack/increment](./charts/action-pack-increment.svg)
+![Star history of action-pack/increment from 2023-11-09 to 2026-11-14: 1 to 9 stars](./charts/action-pack-increment.svg)
 
 #### action-pack/cancel: 8 ★ (0)
 
-![action-pack/cancel](./charts/action-pack-cancel.svg)
+![Star history of action-pack/cancel from 2024-06-19 to 2026-11-14: 1 to 8 stars](./charts/action-pack-cancel.svg)
 
 #### dockur/piefed: 8 ★ (0)
 
-![dockur/piefed](./charts/dockur-piefed.svg)
+![Star history of dockur/piefed from 2026-06-10 to 2026-11-14: 1 to 8 stars](./charts/dockur-piefed.svg)
 
 #### qemus/proxmox-datacenter-arm64: 8 ★ (0)
 
-![qemus/proxmox-datacenter-arm64](./charts/qemus-proxmox-datacenter-arm64.svg)
+![Star history of qemus/proxmox-datacenter-arm64 from 2026-07-01 to 2026-11-14: 1 to 8 stars](./charts/qemus-proxmox-datacenter-arm64.svg)
 
 #### action-pack/set-secret: 7 ★ (0)
 
-![action-pack/set-secret](./charts/action-pack-set-secret.svg)
+![Star history of action-pack/set-secret from 2023-07-18 to 2026-11-14: 1 to 7 stars](./charts/action-pack-set-secret.svg)
 
 #### dockur/mdns: 6 ★ (0)
 
-![dockur/mdns](./charts/dockur-mdns.svg)
+![Star history of dockur/mdns from 2026-07-13 to 2026-11-14: 1 to 6 stars](./charts/dockur-mdns.svg)
 
 #### qemus/qemouse: 5 ★ (0)
 
-![qemus/qemouse](./charts/qemus-qemouse.svg)
+![Star history of qemus/qemouse from 2026-08-17 to 2026-11-14: 1 to 5 stars](./charts/qemus-qemouse.svg)
 
 #### action-pack/valid-xml: 3 ★ (0)
 
-![action-pack/valid-xml](./charts/action-pack-valid-xml.svg)
+![Star history of action-pack/valid-xml from 2024-05-24 to 2026-11-14: 1 to 3 stars](./charts/action-pack-valid-xml.svg)
 
 #### dockur/bitcoin: 3 ★ (0)
 
-![dockur/bitcoin](./charts/dockur-bitcoin.svg)
+![Star history of dockur/bitcoin from 2026-06-10 to 2026-11-14: 1 to 3 stars](./charts/dockur-bitcoin.svg)
 
-#### qemus/boot-logo: 3 ★ (+1)
+#### qemus/boot-logo: 3 ★ (0)
 
-![qemus/boot-logo](./charts/qemus-boot-logo.svg)
+![Star history of qemus/boot-logo from 2026-10-19 to 2026-11-14: 1 to 3 stars](./charts/qemus-boot-logo.svg)
 
 #### qemus/proxmox: 3 ★ (0)
 
-![qemus/proxmox](./charts/qemus-proxmox.svg)
+![Star history of qemus/proxmox from 2026-06-09 to 2026-11-14: 1 to 3 stars](./charts/qemus-proxmox.svg)
 
 #### qemus/proxmox-mail-arm64: 3 ★ (0)
 
-![qemus/proxmox-mail-arm64](./charts/qemus-proxmox-mail-arm64.svg)
+![Star history of qemus/proxmox-mail-arm64 from 2026-07-03 to 2026-11-14: 1 to 3 stars](./charts/qemus-proxmox-mail-arm64.svg)
 
 #### qemus/qemu-macos: 3 ★ (0)
 
-![qemus/qemu-macos](./charts/qemus-qemu-macos.svg)
+![Star history of qemus/qemu-macos from 2026-09-06 to 2026-11-14: 1 to 3 stars](./charts/qemus-qemu-macos.svg)
 
 #### action-pack/set-variable: 2 ★ (0)
 
-![action-pack/set-variable](./charts/action-pack-set-variable.svg)
+![Star history of action-pack/set-variable from 2024-08-26 to 2026-11-14: 1 to 2 stars](./charts/action-pack-set-variable.svg)
 
 #### action-pack/tag-exists: 2 ★ (0)
 
-![action-pack/tag-exists](./charts/action-pack-tag-exists.svg)
+![Star history of action-pack/tag-exists from 2024-06-15 to 2026-11-14: 1 to 2 stars](./charts/action-pack-tag-exists.svg)
 
 #### qemus/fiano: 2 ★ (0)
 
-![qemus/fiano](./charts/qemus-fiano.svg)
+![Star history of qemus/fiano from 2025-11-30 to 2026-11-14: 1 to 2 stars](./charts/qemus-fiano.svg)
 
 #### qemus/qemu-bochs: 2 ★ (0)
 
-![qemus/qemu-bochs](./charts/qemus-qemu-bochs.svg)
+![Star history of qemus/qemu-bochs from 2026-08-23 to 2026-11-14: 1 to 2 stars](./charts/qemus-qemu-bochs.svg)
 
 #### qemus/qemu-windows: 2 ★ (0)
 
-![qemus/qemu-windows](./charts/qemus-qemu-windows.svg)
+![Star history of qemus/qemu-windows from 2026-09-07 to 2026-11-14: 1 to 2 stars](./charts/qemus-qemu-windows.svg)
 
 #### qemus/virtio-drivers-windows: 2 ★ (0)
 
-![qemus/virtio-drivers-windows](./charts/qemus-virtio-drivers-windows.svg)
+![Star history of qemus/virtio-drivers-windows from 2026-08-31 to 2026-11-14: 1 to 2 stars](./charts/qemus-virtio-drivers-windows.svg)
 
 #### action-pack/bump: 1 ★ (0)
 
-![action-pack/bump](./charts/action-pack-bump.svg)
+![Star history of action-pack/bump from 2023-05-23 to 2026-11-14: 1 to 1 stars](./charts/action-pack-bump.svg)
 
 #### action-pack/github-release: 1 ★ (0)
 
-![action-pack/github-release](./charts/action-pack-github-release.svg)
+![Star history of action-pack/github-release from 2023-09-08 to 2026-11-14: 1 to 1 stars](./charts/action-pack-github-release.svg)
 
 #### action-pack/send-mail: 1 ★ (0)
 
-![action-pack/send-mail](./charts/action-pack-send-mail.svg)
+![Star history of action-pack/send-mail from 2024-05-13 to 2026-11-14: 1 to 1 stars](./charts/action-pack-send-mail.svg)
 
 #### dobtc/btc-rpc-proxy: 1 ★ (0)
 
-![dobtc/btc-rpc-proxy](./charts/dobtc-btc-rpc-proxy.svg)
+![Star history of dobtc/btc-rpc-proxy from 2024-05-06 to 2026-11-14: 1 to 1 stars](./charts/dobtc-btc-rpc-proxy.svg)
 
 #### qemus/qemu-render: 1 ★ (0)
 
-![qemus/qemu-render](./charts/qemus-qemu-render.svg)
+![Star history of qemus/qemu-render from 2026-08-23 to 2026-11-14: 1 to 1 stars](./charts/qemus-qemu-render.svg)
 
 #### qemus/udfread: 1 ★ (0)
 
-![qemus/udfread](./charts/qemus-udfread.svg)
+![Star history of qemus/udfread from 2026-07-31 to 2026-11-14: 1 to 1 stars](./charts/qemus-udfread.svg)
 
 #### qemus/websocketd: 1 ★ (0)
 
-![qemus/websocketd](./charts/qemus-websocketd.svg)
+![Star history of qemus/websocketd from 2026-08-13 to 2026-11-14: 1 to 1 stars](./charts/qemus-websocketd.svg)
 
 </details>
 
@@ -273,15 +273,15 @@
 
 | Repositories | Stars | Change | Trend |
 |:-----------|------:|-------:|:-----:|
-| [dockur/windows](https://github.com/dockur/windows) | 54173 | +8 | ⬆️ |
-| [dockur/macos](https://github.com/dockur/macos) | 21743 | +2 | ⬆️ |
-| [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) | 4030 | +1 | ⬆️ |
-| [dockur/windows-arm](https://github.com/dockur/windows-arm) | 2275 | +1 | ⬆️ |
-| [qemus/qemu](https://github.com/qemus/qemu) | 2186 | +1 | ⬆️ |
-| [dockur/samba](https://github.com/dockur/samba) | 838 | 0 | ➖ |
-| [dockur/umbrel](https://github.com/dockur/umbrel) | 438 | +1 | ⬆️ |
-| [dockur/proxmox](https://github.com/dockur/proxmox) | 341 | +1 | ⬆️ |
-| [dockur/casa](https://github.com/dockur/casa) | 229 | +1 | ⬆️ |
+| [dockur/windows](https://github.com/dockur/windows) | 54191 | +18 | ⬆️ |
+| [dockur/macos](https://github.com/dockur/macos) | 21743 | 0 | ➖ |
+| [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) | 4032 | +2 | ⬆️ |
+| [dockur/windows-arm](https://github.com/dockur/windows-arm) | 2275 | 0 | ➖ |
+| [qemus/qemu](https://github.com/qemus/qemu) | 2187 | +1 | ⬆️ |
+| [dockur/samba](https://github.com/dockur/samba) | 839 | +1 | ⬆️ |
+| [dockur/umbrel](https://github.com/dockur/umbrel) | 438 | 0 | ➖ |
+| [dockur/proxmox](https://github.com/dockur/proxmox) | 342 | +1 | ⬆️ |
+| [dockur/casa](https://github.com/dockur/casa) | 229 | 0 | ➖ |
 | [dockur/tor](https://github.com/dockur/tor) | 229 | 0 | ➖ |
 | [qemus/qemu-arm](https://github.com/qemus/qemu-arm) | 215 | 0 | ➖ |
 | [dockur/dnsmasq](https://github.com/dockur/dnsmasq) | 170 | 0 | ➖ |
@@ -291,9 +291,9 @@
 | [dockur/statping](https://github.com/dockur/statping) | 78 | 0 | ➖ |
 | [qemus/virtiso-whql](https://github.com/qemus/virtiso-whql) | 69 | 0 | ➖ |
 | [dockur/munin](https://github.com/dockur/munin) | 49 | 0 | ➖ |
-| [dockur/proxmox-backup](https://github.com/dockur/proxmox-backup) | 45 | +1 | ⬆️ |
+| [dockur/proxmox-backup](https://github.com/dockur/proxmox-backup) | 45 | 0 | ➖ |
 | [qemus/qemu-vmvga](https://github.com/qemus/qemu-vmvga) | 44 | 0 | ➖ |
-| [dockur/zima](https://github.com/dockur/zima) | 42 | +1 | ⬆️ |
+| [dockur/zima](https://github.com/dockur/zima) | 42 | 0 | ➖ |
 | [qemus/virtiso-arm](https://github.com/qemus/virtiso-arm) | 30 | 0 | ➖ |
 | [qemus/qemu-host](https://github.com/qemus/qemu-host) | 29 | 0 | ➖ |
 | [dockur/lemmy-ui](https://github.com/dockur/lemmy-ui) | 23 | 0 | ➖ |
@@ -302,14 +302,14 @@
 | [dockur/stunnel](https://github.com/dockur/stunnel) | 20 | 0 | ➖ |
 | [qemus/virtiso-x86](https://github.com/qemus/virtiso-x86) | 20 | 0 | ➖ |
 | [action-pack/gitlab-sync](https://github.com/action-pack/gitlab-sync) | 19 | 0 | ➖ |
-| [qemus/passt](https://github.com/qemus/passt) | 17 | 0 | ➖ |
-| [dockur/chromeos](https://github.com/dockur/chromeos) | 15 | 0 | ➖ |
+| [qemus/passt](https://github.com/qemus/passt) | 18 | +1 | ⬆️ |
+| [dockur/chromeos](https://github.com/dockur/chromeos) | 16 | +1 | ⬆️ |
 | [dockur/lemmy](https://github.com/dockur/lemmy) | 14 | 0 | ➖ |
 | [dockur/proxmox-mail](https://github.com/dockur/proxmox-mail) | 14 | 0 | ➖ |
 | [dockur/qemu](https://github.com/dockur/qemu) | 14 | 0 | ➖ |
 | [dobtc/bitcoin](https://github.com/dobtc/bitcoin) | 13 | 0 | ➖ |
+| [qemus/proxmox-backup-arm64](https://github.com/qemus/proxmox-backup-arm64) | 12 | +1 | ⬆️ |
 | [dockur/virtual-dsm](https://github.com/dockur/virtual-dsm) | 11 | 0 | ➖ |
-| [qemus/proxmox-backup-arm64](https://github.com/qemus/proxmox-backup-arm64) | 11 | 0 | ➖ |
 | [action-pack/increment](https://github.com/action-pack/increment) | 9 | 0 | ➖ |
 | [action-pack/cancel](https://github.com/action-pack/cancel) | 8 | 0 | ➖ |
 | [dockur/piefed](https://github.com/dockur/piefed) | 8 | 0 | ➖ |
@@ -319,7 +319,7 @@
 | [qemus/qemouse](https://github.com/qemus/qemouse) | 5 | 0 | ➖ |
 | [action-pack/valid-xml](https://github.com/action-pack/valid-xml) | 3 | 0 | ➖ |
 | [dockur/bitcoin](https://github.com/dockur/bitcoin) | 3 | 0 | ➖ |
-| [qemus/boot-logo](https://github.com/qemus/boot-logo) | 3 | +1 | ⬆️ |
+| [qemus/boot-logo](https://github.com/qemus/boot-logo) | 3 | 0 | ➖ |
 | [qemus/proxmox](https://github.com/qemus/proxmox) | 3 | 0 | ➖ |
 | [qemus/proxmox-mail-arm64](https://github.com/qemus/proxmox-mail-arm64) | 3 | 0 | ➖ |
 | [qemus/qemu-macos](https://github.com/qemus/qemu-macos) | 3 | 0 | ➖ |
@@ -339,26 +339,26 @@
 
 ## Summary
 
-- **Stars gained:** 19
+- **Stars gained:** 26
 - **Stars lost:** 0
-- **Net change:** +19
+- **Net change:** +26
 
 ## 🔮 Growth Forecast
 
 ### 🚀 Growth Velocity
 
-- **Stars per day:** 19.59
+- **Stars per day:** 26.12
 - **Growth:** +0%
-- ~614 days to 100000 ★
+- ~460 days to 100000 ★
 
 **Aggregate Forecast**
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 88529 | 89078 | 89626 | 90175 |
-| Weighted Moving Average | 88488 | 88994 | 89501 | 90008 |
+| Linear Regression | 88556 | 89104 | 89653 | 90202 |
+| Weighted Moving Average | 88513 | 89018 | 89524 | 90029 |
 
-![Growth Forecast](./charts/forecast.svg)
+![Growth forecast from 2026-11-14 to 2026-12-12: 88007 stars on 2026-11-14, projected to reach 90202 by Linear Regression, 90029 by Weighted Moving Average](./charts/forecast.svg)
 
 ### By Repository
 
@@ -369,10 +369,10 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 54524 | 54874 | 55225 | 55575 |
-| Weighted Moving Average | 54468 | 54764 | 55059 | 55355 |
+| Linear Regression | 54541 | 54891 | 55242 | 55592 |
+| Weighted Moving Average | 54486 | 54781 | 55077 | 55372 |
 
-![dockur/windows](./charts/forecast-dockur-windows.svg)
+![Growth forecast of dockur/windows from 2026-11-14 to 2026-12-12: 54191 stars on 2026-11-14, projected to reach 55592 by Linear Regression, 55372 by Weighted Moving Average](./charts/forecast-dockur-windows.svg)
 
 </details>
 
@@ -383,10 +383,10 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 21926 | 22109 | 22292 | 22475 |
-| Weighted Moving Average | 21876 | 22008 | 22141 | 22274 |
+| Linear Regression | 21926 | 22108 | 22291 | 22474 |
+| Weighted Moving Average | 21876 | 22008 | 22141 | 22273 |
 
-![dockur/macos](./charts/forecast-dockur-macos.svg)
+![Growth forecast of dockur/macos from 2026-11-14 to 2026-12-12: 21743 stars on 2026-11-14, projected to reach 22474 by Linear Regression, 22273 by Weighted Moving Average](./charts/forecast-dockur-macos.svg)
 
 </details>
 
@@ -397,10 +397,10 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 4050 | 4070 | 4091 | 4111 |
-| Weighted Moving Average | 4046 | 4062 | 4078 | 4094 |
+| Linear Regression | 4052 | 4072 | 4093 | 4113 |
+| Weighted Moving Average | 4048 | 4064 | 4080 | 4096 |
 
-![vdsm/virtual-dsm](./charts/forecast-vdsm-virtual-dsm.svg)
+![Growth forecast of vdsm/virtual-dsm from 2026-11-14 to 2026-12-12: 4032 stars on 2026-11-14, projected to reach 4113 by Linear Regression, 4096 by Weighted Moving Average](./charts/forecast-vdsm-virtual-dsm.svg)
 
 </details>
 
@@ -414,7 +414,7 @@
 | Linear Regression | 2290 | 2306 | 2321 | 2337 |
 | Weighted Moving Average | 2287 | 2298 | 2310 | 2321 |
 
-![dockur/windows-arm](./charts/forecast-dockur-windows-arm.svg)
+![Growth forecast of dockur/windows-arm from 2026-11-14 to 2026-12-12: 2275 stars on 2026-11-14, projected to reach 2337 by Linear Regression, 2321 by Weighted Moving Average](./charts/forecast-dockur-windows-arm.svg)
 
 </details>
 
@@ -425,10 +425,10 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 2199 | 2212 | 2225 | 2238 |
-| Weighted Moving Average | 2201 | 2216 | 2231 | 2246 |
+| Linear Regression | 2200 | 2213 | 2226 | 2239 |
+| Weighted Moving Average | 2202 | 2217 | 2232 | 2247 |
 
-![qemus/qemu](./charts/forecast-qemus-qemu.svg)
+![Growth forecast of qemus/qemu from 2026-11-14 to 2026-12-12: 2187 stars on 2026-11-14, projected to reach 2239 by Linear Regression, 2247 by Weighted Moving Average](./charts/forecast-qemus-qemu.svg)
 
 </details>
 
@@ -439,10 +439,10 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 844 | 851 | 857 | 864 |
-| Weighted Moving Average | 844 | 850 | 857 | 863 |
+| Linear Regression | 845 | 852 | 858 | 865 |
+| Weighted Moving Average | 845 | 851 | 858 | 864 |
 
-![dockur/samba](./charts/forecast-dockur-samba.svg)
+![Growth forecast of dockur/samba from 2026-11-14 to 2026-12-12: 839 stars on 2026-11-14, projected to reach 865 by Linear Regression, 864 by Weighted Moving Average](./charts/forecast-dockur-samba.svg)
 
 </details>
 
@@ -453,10 +453,10 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 442 | 445 | 449 | 452 |
+| Linear Regression | 441 | 445 | 448 | 452 |
 | Weighted Moving Average | 441 | 444 | 447 | 450 |
 
-![dockur/umbrel](./charts/forecast-dockur-umbrel.svg)
+![Growth forecast of dockur/umbrel from 2026-11-14 to 2026-12-12: 438 stars on 2026-11-14, projected to reach 452 by Linear Regression, 450 by Weighted Moving Average](./charts/forecast-dockur-umbrel.svg)
 
 </details>
 
@@ -467,10 +467,10 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 349 | 356 | 364 | 372 |
-| Weighted Moving Average | 346 | 352 | 357 | 363 |
+| Linear Regression | 350 | 357 | 365 | 373 |
+| Weighted Moving Average | 347 | 353 | 358 | 364 |
 
-![dockur/proxmox](./charts/forecast-dockur-proxmox.svg)
+![Growth forecast of dockur/proxmox from 2026-11-14 to 2026-12-12: 342 stars on 2026-11-14, projected to reach 373 by Linear Regression, 364 by Weighted Moving Average](./charts/forecast-dockur-proxmox.svg)
 
 </details>
 
@@ -484,7 +484,7 @@
 | Linear Regression | 231 | 234 | 236 | 238 |
 | Weighted Moving Average | 231 | 233 | 235 | 237 |
 
-![dockur/casa](./charts/forecast-dockur-casa.svg)
+![Growth forecast of dockur/casa from 2026-11-14 to 2026-12-12: 229 stars on 2026-11-14, projected to reach 238 by Linear Regression, 237 by Weighted Moving Average](./charts/forecast-dockur-casa.svg)
 
 </details>
 
@@ -498,7 +498,7 @@
 | Linear Regression | 231 | 232 | 234 | 236 |
 | Weighted Moving Average | 231 | 232 | 234 | 236 |
 
-![dockur/tor](./charts/forecast-dockur-tor.svg)
+![Growth forecast of dockur/tor from 2026-11-14 to 2026-12-12: 229 stars on 2026-11-14, projected to reach 236 by Linear Regression, 236 by Weighted Moving Average](./charts/forecast-dockur-tor.svg)
 
 </details>
 
@@ -512,7 +512,7 @@
 | Linear Regression | 217 | 218 | 220 | 222 |
 | Weighted Moving Average | 216 | 218 | 219 | 221 |
 
-![qemus/qemu-arm](./charts/forecast-qemus-qemu-arm.svg)
+![Growth forecast of qemus/qemu-arm from 2026-11-14 to 2026-12-12: 215 stars on 2026-11-14, projected to reach 222 by Linear Regression, 221 by Weighted Moving Average](./charts/forecast-qemus-qemu-arm.svg)
 
 </details>
 
@@ -526,7 +526,7 @@
 | Linear Regression | 171 | 173 | 174 | 175 |
 | Weighted Moving Average | 171 | 173 | 174 | 175 |
 
-![dockur/dnsmasq](./charts/forecast-dockur-dnsmasq.svg)
+![Growth forecast of dockur/dnsmasq from 2026-11-14 to 2026-12-12: 170 stars on 2026-11-14, projected to reach 175 by Linear Regression, 175 by Weighted Moving Average](./charts/forecast-dockur-dnsmasq.svg)
 
 </details>
 
@@ -540,7 +540,7 @@
 | Linear Regression | 147 | 148 | 149 | 150 |
 | Weighted Moving Average | 147 | 148 | 149 | 151 |
 
-![qemus/virtiso](./charts/forecast-qemus-virtiso.svg)
+![Growth forecast of qemus/virtiso from 2026-11-14 to 2026-12-12: 146 stars on 2026-11-14, projected to reach 150 by Linear Regression, 151 by Weighted Moving Average](./charts/forecast-qemus-virtiso.svg)
 
 </details>
 
@@ -554,7 +554,7 @@
 | Linear Regression | 140 | 141 | 142 | 143 |
 | Weighted Moving Average | 140 | 141 | 142 | 143 |
 
-![dockur/portainer-backup](./charts/forecast-dockur-portainer-backup.svg)
+![Growth forecast of dockur/portainer-backup from 2026-11-14 to 2026-12-12: 139 stars on 2026-11-14, projected to reach 143 by Linear Regression, 143 by Weighted Moving Average](./charts/forecast-dockur-portainer-backup.svg)
 
 </details>
 
@@ -568,7 +568,7 @@
 | Linear Regression | 120 | 121 | 122 | 123 |
 | Weighted Moving Average | 120 | 121 | 122 | 123 |
 
-![dockur/chrony](./charts/forecast-dockur-chrony.svg)
+![Growth forecast of dockur/chrony from 2026-11-14 to 2026-12-12: 119 stars on 2026-11-14, projected to reach 123 by Linear Regression, 123 by Weighted Moving Average](./charts/forecast-dockur-chrony.svg)
 
 </details>
 
@@ -582,7 +582,7 @@
 | Linear Regression | 79 | 79 | 80 | 80 |
 | Weighted Moving Average | 78 | 79 | 79 | 79 |
 
-![dockur/statping](./charts/forecast-dockur-statping.svg)
+![Growth forecast of dockur/statping from 2026-11-14 to 2026-12-12: 78 stars on 2026-11-14, projected to reach 80 by Linear Regression, 79 by Weighted Moving Average](./charts/forecast-dockur-statping.svg)
 
 </details>
 
@@ -596,7 +596,7 @@
 | Linear Regression | 70 | 70 | 71 | 72 |
 | Weighted Moving Average | 70 | 70 | 71 | 72 |
 
-![qemus/virtiso-whql](./charts/forecast-qemus-virtiso-whql.svg)
+![Growth forecast of qemus/virtiso-whql from 2026-11-14 to 2026-12-12: 69 stars on 2026-11-14, projected to reach 72 by Linear Regression, 72 by Weighted Moving Average](./charts/forecast-qemus-virtiso-whql.svg)
 
 </details>
 
@@ -610,7 +610,7 @@
 | Linear Regression | 49 | 50 | 50 | 50 |
 | Weighted Moving Average | 49 | 50 | 50 | 50 |
 
-![dockur/munin](./charts/forecast-dockur-munin.svg)
+![Growth forecast of dockur/munin from 2026-11-14 to 2026-12-12: 49 stars on 2026-11-14, projected to reach 50 by Linear Regression, 50 by Weighted Moving Average](./charts/forecast-dockur-munin.svg)
 
 </details>
 
@@ -624,7 +624,7 @@
 | Linear Regression | 47 | 49 | 51 | 53 |
 | Weighted Moving Average | 47 | 48 | 50 | 52 |
 
-![dockur/proxmox-backup](./charts/forecast-dockur-proxmox-backup.svg)
+![Growth forecast of dockur/proxmox-backup from 2026-11-14 to 2026-12-12: 45 stars on 2026-11-14, projected to reach 53 by Linear Regression, 52 by Weighted Moving Average](./charts/forecast-dockur-proxmox-backup.svg)
 
 </details>
 
@@ -636,9 +636,9 @@
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
 | Linear Regression | 49 | 54 | 59 | 64 |
-| Weighted Moving Average | 48 | 52 | 57 | 61 |
+| Weighted Moving Average | 48 | 52 | 56 | 60 |
 
-![qemus/qemu-vmvga](./charts/forecast-qemus-qemu-vmvga.svg)
+![Growth forecast of qemus/qemu-vmvga from 2026-11-14 to 2026-12-12: 44 stars on 2026-11-14, projected to reach 64 by Linear Regression, 60 by Weighted Moving Average](./charts/forecast-qemus-qemu-vmvga.svg)
 
 </details>
 
@@ -652,7 +652,7 @@
 | Linear Regression | 43 | 45 | 46 | 48 |
 | Weighted Moving Average | 43 | 44 | 46 | 47 |
 
-![dockur/zima](./charts/forecast-dockur-zima.svg)
+![Growth forecast of dockur/zima from 2026-11-14 to 2026-12-12: 42 stars on 2026-11-14, projected to reach 48 by Linear Regression, 47 by Weighted Moving Average](./charts/forecast-dockur-zima.svg)
 
 </details>
 
@@ -666,7 +666,7 @@
 | Linear Regression | 30 | 30 | 31 | 31 |
 | Weighted Moving Average | 30 | 31 | 31 | 31 |
 
-![qemus/virtiso-arm](./charts/forecast-qemus-virtiso-arm.svg)
+![Growth forecast of qemus/virtiso-arm from 2026-11-14 to 2026-12-12: 30 stars on 2026-11-14, projected to reach 31 by Linear Regression, 31 by Weighted Moving Average](./charts/forecast-qemus-virtiso-arm.svg)
 
 </details>
 
@@ -680,7 +680,7 @@
 | Linear Regression | 29 | 29 | 30 | 30 |
 | Weighted Moving Average | 29 | 29 | 29 | 30 |
 
-![qemus/qemu-host](./charts/forecast-qemus-qemu-host.svg)
+![Growth forecast of qemus/qemu-host from 2026-11-14 to 2026-12-12: 29 stars on 2026-11-14, projected to reach 30 by Linear Regression, 30 by Weighted Moving Average](./charts/forecast-qemus-qemu-host.svg)
 
 </details>
 
@@ -694,7 +694,7 @@
 | Linear Regression | 23 | 23 | 24 | 24 |
 | Weighted Moving Average | 23 | 23 | 23 | 24 |
 
-![dockur/lemmy-ui](./charts/forecast-dockur-lemmy-ui.svg)
+![Growth forecast of dockur/lemmy-ui from 2026-11-14 to 2026-12-12: 23 stars on 2026-11-14, projected to reach 24 by Linear Regression, 24 by Weighted Moving Average](./charts/forecast-dockur-lemmy-ui.svg)
 
 </details>
 
@@ -708,7 +708,7 @@
 | Linear Regression | 23 | 23 | 23 | 24 |
 | Weighted Moving Average | 23 | 23 | 23 | 24 |
 
-![dockur/strfry](./charts/forecast-dockur-strfry.svg)
+![Growth forecast of dockur/strfry from 2026-11-14 to 2026-12-12: 23 stars on 2026-11-14, projected to reach 24 by Linear Regression, 24 by Weighted Moving Average](./charts/forecast-dockur-strfry.svg)
 
 </details>
 
@@ -722,7 +722,7 @@
 | Linear Regression | 23 | 24 | 25 | 26 |
 | Weighted Moving Average | 23 | 23 | 24 | 25 |
 
-![dockur/proxmox-dm](./charts/forecast-dockur-proxmox-dm.svg)
+![Growth forecast of dockur/proxmox-dm from 2026-11-14 to 2026-12-12: 22 stars on 2026-11-14, projected to reach 26 by Linear Regression, 25 by Weighted Moving Average](./charts/forecast-dockur-proxmox-dm.svg)
 
 </details>
 
@@ -736,7 +736,7 @@
 | Linear Regression | 20 | 21 | 21 | 21 |
 | Weighted Moving Average | 20 | 21 | 21 | 21 |
 
-![dockur/stunnel](./charts/forecast-dockur-stunnel.svg)
+![Growth forecast of dockur/stunnel from 2026-11-14 to 2026-12-12: 20 stars on 2026-11-14, projected to reach 21 by Linear Regression, 21 by Weighted Moving Average](./charts/forecast-dockur-stunnel.svg)
 
 </details>
 
@@ -750,7 +750,7 @@
 | Linear Regression | 20 | 20 | 20 | 21 |
 | Weighted Moving Average | 20 | 20 | 20 | 21 |
 
-![qemus/virtiso-x86](./charts/forecast-qemus-virtiso-x86.svg)
+![Growth forecast of qemus/virtiso-x86 from 2026-11-14 to 2026-12-12: 20 stars on 2026-11-14, projected to reach 21 by Linear Regression, 21 by Weighted Moving Average](./charts/forecast-qemus-virtiso-x86.svg)
 
 </details>
 
@@ -764,7 +764,7 @@
 | Linear Regression | 19 | 19 | 19 | 19 |
 | Weighted Moving Average | 19 | 19 | 19 | 19 |
 
-![action-pack/gitlab-sync](./charts/forecast-action-pack-gitlab-sync.svg)
+![Growth forecast of action-pack/gitlab-sync from 2026-11-14 to 2026-12-12: 19 stars on 2026-11-14, projected to reach 19 by Linear Regression, 19 by Weighted Moving Average](./charts/forecast-action-pack-gitlab-sync.svg)
 
 </details>
 
@@ -775,10 +775,10 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 17 | 18 | 18 | 18 |
-| Weighted Moving Average | 17 | 18 | 18 | 18 |
+| Linear Regression | 18 | 19 | 19 | 19 |
+| Weighted Moving Average | 18 | 19 | 19 | 19 |
 
-![qemus/passt](./charts/forecast-qemus-passt.svg)
+![Growth forecast of qemus/passt from 2026-11-14 to 2026-12-12: 18 stars on 2026-11-14, projected to reach 19 by Linear Regression, 19 by Weighted Moving Average](./charts/forecast-qemus-passt.svg)
 
 </details>
 
@@ -789,10 +789,10 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 16 | 17 | 17 | 18 |
-| Weighted Moving Average | 16 | 16 | 17 | 17 |
+| Linear Regression | 17 | 18 | 18 | 19 |
+| Weighted Moving Average | 17 | 17 | 18 | 19 |
 
-![dockur/chromeos](./charts/forecast-dockur-chromeos.svg)
+![Growth forecast of dockur/chromeos from 2026-11-14 to 2026-12-12: 16 stars on 2026-11-14, projected to reach 19 by Linear Regression, 19 by Weighted Moving Average](./charts/forecast-dockur-chromeos.svg)
 
 </details>
 
@@ -806,7 +806,7 @@
 | Linear Regression | 14 | 14 | 14 | 14 |
 | Weighted Moving Average | 14 | 14 | 14 | 14 |
 
-![dockur/lemmy](./charts/forecast-dockur-lemmy.svg)
+![Growth forecast of dockur/lemmy from 2026-11-14 to 2026-12-12: 14 stars on 2026-11-14, projected to reach 14 by Linear Regression, 14 by Weighted Moving Average](./charts/forecast-dockur-lemmy.svg)
 
 </details>
 
@@ -820,7 +820,7 @@
 | Linear Regression | 15 | 15 | 16 | 17 |
 | Weighted Moving Average | 15 | 15 | 16 | 16 |
 
-![dockur/proxmox-mail](./charts/forecast-dockur-proxmox-mail.svg)
+![Growth forecast of dockur/proxmox-mail from 2026-11-14 to 2026-12-12: 14 stars on 2026-11-14, projected to reach 17 by Linear Regression, 16 by Weighted Moving Average](./charts/forecast-dockur-proxmox-mail.svg)
 
 </details>
 
@@ -834,7 +834,7 @@
 | Linear Regression | 15 | 15 | 16 | 16 |
 | Weighted Moving Average | 15 | 15 | 16 | 16 |
 
-![dockur/qemu](./charts/forecast-dockur-qemu.svg)
+![Growth forecast of dockur/qemu from 2026-11-14 to 2026-12-12: 14 stars on 2026-11-14, projected to reach 16 by Linear Regression, 16 by Weighted Moving Average](./charts/forecast-dockur-qemu.svg)
 
 </details>
 
@@ -848,7 +848,21 @@
 | Linear Regression | 13 | 13 | 13 | 13 |
 | Weighted Moving Average | 13 | 13 | 13 | 13 |
 
-![dobtc/bitcoin](./charts/forecast-dobtc-bitcoin.svg)
+![Growth forecast of dobtc/bitcoin from 2026-11-14 to 2026-12-12: 13 stars on 2026-11-14, projected to reach 13 by Linear Regression, 13 by Weighted Moving Average](./charts/forecast-dobtc-bitcoin.svg)
+
+</details>
+
+<details>
+<summary>qemus/proxmox-backup-arm64</summary>
+
+**qemus/proxmox-backup-arm64**
+
+| Method | Week 1 | Week 2 | Week 3 | Week 4 |
+|:---|---:|---:|---:|---:|
+| Linear Regression | 12 | 13 | 13 | 13 |
+| Weighted Moving Average | 12 | 13 | 13 | 13 |
+
+![Growth forecast of qemus/proxmox-backup-arm64 from 2026-11-14 to 2026-12-12: 12 stars on 2026-11-14, projected to reach 13 by Linear Regression, 13 by Weighted Moving Average](./charts/forecast-qemus-proxmox-backup-arm64.svg)
 
 </details>
 
@@ -862,21 +876,7 @@
 | Linear Regression | 11 | 12 | 12 | 13 |
 | Weighted Moving Average | 11 | 12 | 12 | 12 |
 
-![dockur/virtual-dsm](./charts/forecast-dockur-virtual-dsm.svg)
-
-</details>
-
-<details>
-<summary>qemus/proxmox-backup-arm64</summary>
-
-**qemus/proxmox-backup-arm64**
-
-| Method | Week 1 | Week 2 | Week 3 | Week 4 |
-|:---|---:|---:|---:|---:|
-| Linear Regression | 11 | 12 | 12 | 12 |
-| Weighted Moving Average | 11 | 11 | 12 | 12 |
-
-![qemus/proxmox-backup-arm64](./charts/forecast-qemus-proxmox-backup-arm64.svg)
+![Growth forecast of dockur/virtual-dsm from 2026-11-14 to 2026-12-12: 11 stars on 2026-11-14, projected to reach 13 by Linear Regression, 12 by Weighted Moving Average](./charts/forecast-dockur-virtual-dsm.svg)
 
 </details>
 
@@ -890,7 +890,7 @@
 | Linear Regression | 9 | 9 | 9 | 9 |
 | Weighted Moving Average | 9 | 9 | 9 | 9 |
 
-![action-pack/increment](./charts/forecast-action-pack-increment.svg)
+![Growth forecast of action-pack/increment from 2026-11-14 to 2026-12-12: 9 stars on 2026-11-14, projected to reach 9 by Linear Regression, 9 by Weighted Moving Average](./charts/forecast-action-pack-increment.svg)
 
 </details>
 
@@ -904,7 +904,7 @@
 | Linear Regression | 8 | 8 | 8 | 8 |
 | Weighted Moving Average | 8 | 8 | 8 | 8 |
 
-![action-pack/cancel](./charts/forecast-action-pack-cancel.svg)
+![Growth forecast of action-pack/cancel from 2026-11-14 to 2026-12-12: 8 stars on 2026-11-14, projected to reach 8 by Linear Regression, 8 by Weighted Moving Average](./charts/forecast-action-pack-cancel.svg)
 
 </details>
 
@@ -918,7 +918,7 @@
 | Linear Regression | 8 | 9 | 9 | 10 |
 | Weighted Moving Average | 8 | 9 | 9 | 9 |
 
-![dockur/piefed](./charts/forecast-dockur-piefed.svg)
+![Growth forecast of dockur/piefed from 2026-11-14 to 2026-12-12: 8 stars on 2026-11-14, projected to reach 10 by Linear Regression, 9 by Weighted Moving Average](./charts/forecast-dockur-piefed.svg)
 
 </details>
 
@@ -932,7 +932,7 @@
 | Linear Regression | 8 | 9 | 9 | 9 |
 | Weighted Moving Average | 8 | 9 | 9 | 9 |
 
-![qemus/proxmox-datacenter-arm64](./charts/forecast-qemus-proxmox-datacenter-arm64.svg)
+![Growth forecast of qemus/proxmox-datacenter-arm64 from 2026-11-14 to 2026-12-12: 8 stars on 2026-11-14, projected to reach 9 by Linear Regression, 9 by Weighted Moving Average](./charts/forecast-qemus-proxmox-datacenter-arm64.svg)
 
 </details>
 
@@ -946,7 +946,7 @@
 | Linear Regression | 7 | 7 | 7 | 7 |
 | Weighted Moving Average | 7 | 7 | 7 | 7 |
 
-![action-pack/set-secret](./charts/forecast-action-pack-set-secret.svg)
+![Growth forecast of action-pack/set-secret from 2026-11-14 to 2026-12-12: 7 stars on 2026-11-14, projected to reach 7 by Linear Regression, 7 by Weighted Moving Average](./charts/forecast-action-pack-set-secret.svg)
 
 </details>
 
@@ -957,10 +957,10 @@
 
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
-| Linear Regression | 6 | 6 | 7 | 7 |
+| Linear Regression | 6 | 7 | 7 | 7 |
 | Weighted Moving Average | 6 | 7 | 7 | 7 |
 
-![dockur/mdns](./charts/forecast-dockur-mdns.svg)
+![Growth forecast of dockur/mdns from 2026-11-14 to 2026-12-12: 6 stars on 2026-11-14, projected to reach 7 by Linear Regression, 7 by Weighted Moving Average](./charts/forecast-dockur-mdns.svg)
 
 </details>
 
@@ -974,7 +974,7 @@
 | Linear Regression | 5 | 6 | 6 | 6 |
 | Weighted Moving Average | 5 | 6 | 6 | 6 |
 
-![qemus/qemouse](./charts/forecast-qemus-qemouse.svg)
+![Growth forecast of qemus/qemouse from 2026-11-14 to 2026-12-12: 5 stars on 2026-11-14, projected to reach 6 by Linear Regression, 6 by Weighted Moving Average](./charts/forecast-qemus-qemouse.svg)
 
 </details>
 
@@ -988,7 +988,7 @@
 | Linear Regression | 3 | 3 | 3 | 3 |
 | Weighted Moving Average | 3 | 3 | 3 | 3 |
 
-![action-pack/valid-xml](./charts/forecast-action-pack-valid-xml.svg)
+![Growth forecast of action-pack/valid-xml from 2026-11-14 to 2026-12-12: 3 stars on 2026-11-14, projected to reach 3 by Linear Regression, 3 by Weighted Moving Average](./charts/forecast-action-pack-valid-xml.svg)
 
 </details>
 
@@ -1002,7 +1002,7 @@
 | Linear Regression | 3 | 3 | 3 | 3 |
 | Weighted Moving Average | 3 | 3 | 3 | 3 |
 
-![dockur/bitcoin](./charts/forecast-dockur-bitcoin.svg)
+![Growth forecast of dockur/bitcoin from 2026-11-14 to 2026-12-12: 3 stars on 2026-11-14, projected to reach 3 by Linear Regression, 3 by Weighted Moving Average](./charts/forecast-dockur-bitcoin.svg)
 
 </details>
 
@@ -1014,9 +1014,9 @@
 | Method | Week 1 | Week 2 | Week 3 | Week 4 |
 |:---|---:|---:|---:|---:|
 | Linear Regression | 3 | 4 | 4 | 5 |
-| Weighted Moving Average | 4 | 5 | 6 | 7 |
+| Weighted Moving Average | 4 | 5 | 6 | 6 |
 
-![qemus/boot-logo](./charts/forecast-qemus-boot-logo.svg)
+![Growth forecast of qemus/boot-logo from 2026-11-14 to 2026-12-12: 3 stars on 2026-11-14, projected to reach 5 by Linear Regression, 6 by Weighted Moving Average](./charts/forecast-qemus-boot-logo.svg)
 
 </details>
 
@@ -1030,7 +1030,7 @@
 | Linear Regression | 3 | 3 | 3 | 3 |
 | Weighted Moving Average | 3 | 3 | 3 | 3 |
 
-![qemus/proxmox](./charts/forecast-qemus-proxmox.svg)
+![Growth forecast of qemus/proxmox from 2026-11-14 to 2026-12-12: 3 stars on 2026-11-14, projected to reach 3 by Linear Regression, 3 by Weighted Moving Average](./charts/forecast-qemus-proxmox.svg)
 
 </details>
 
@@ -1044,7 +1044,7 @@
 | Linear Regression | 3 | 3 | 3 | 3 |
 | Weighted Moving Average | 3 | 3 | 3 | 3 |
 
-![qemus/proxmox-mail-arm64](./charts/forecast-qemus-proxmox-mail-arm64.svg)
+![Growth forecast of qemus/proxmox-mail-arm64 from 2026-11-14 to 2026-12-12: 3 stars on 2026-11-14, projected to reach 3 by Linear Regression, 3 by Weighted Moving Average](./charts/forecast-qemus-proxmox-mail-arm64.svg)
 
 </details>
 
@@ -1058,7 +1058,7 @@
 | Linear Regression | 3 | 3 | 4 | 4 |
 | Weighted Moving Average | 3 | 3 | 3 | 3 |
 
-![qemus/qemu-macos](./charts/forecast-qemus-qemu-macos.svg)
+![Growth forecast of qemus/qemu-macos from 2026-11-14 to 2026-12-12: 3 stars on 2026-11-14, projected to reach 4 by Linear Regression, 3 by Weighted Moving Average](./charts/forecast-qemus-qemu-macos.svg)
 
 </details>
 
@@ -1072,7 +1072,7 @@
 | Linear Regression | 2 | 2 | 2 | 2 |
 | Weighted Moving Average | 2 | 2 | 2 | 2 |
 
-![action-pack/set-variable](./charts/forecast-action-pack-set-variable.svg)
+![Growth forecast of action-pack/set-variable from 2026-11-14 to 2026-12-12: 2 stars on 2026-11-14, projected to reach 2 by Linear Regression, 2 by Weighted Moving Average](./charts/forecast-action-pack-set-variable.svg)
 
 </details>
 
@@ -1086,7 +1086,7 @@
 | Linear Regression | 2 | 2 | 2 | 2 |
 | Weighted Moving Average | 2 | 2 | 2 | 2 |
 
-![action-pack/tag-exists](./charts/forecast-action-pack-tag-exists.svg)
+![Growth forecast of action-pack/tag-exists from 2026-11-14 to 2026-12-12: 2 stars on 2026-11-14, projected to reach 2 by Linear Regression, 2 by Weighted Moving Average](./charts/forecast-action-pack-tag-exists.svg)
 
 </details>
 
@@ -1100,7 +1100,7 @@
 | Linear Regression | 2 | 2 | 2 | 2 |
 | Weighted Moving Average | 2 | 2 | 2 | 2 |
 
-![qemus/fiano](./charts/forecast-qemus-fiano.svg)
+![Growth forecast of qemus/fiano from 2026-11-14 to 2026-12-12: 2 stars on 2026-11-14, projected to reach 2 by Linear Regression, 2 by Weighted Moving Average](./charts/forecast-qemus-fiano.svg)
 
 </details>
 
@@ -1114,7 +1114,7 @@
 | Linear Regression | 2 | 2 | 2 | 2 |
 | Weighted Moving Average | 2 | 2 | 2 | 2 |
 
-![qemus/qemu-bochs](./charts/forecast-qemus-qemu-bochs.svg)
+![Growth forecast of qemus/qemu-bochs from 2026-11-14 to 2026-12-12: 2 stars on 2026-11-14, projected to reach 2 by Linear Regression, 2 by Weighted Moving Average](./charts/forecast-qemus-qemu-bochs.svg)
 
 </details>
 
@@ -1128,7 +1128,7 @@
 | Linear Regression | 2 | 2 | 2 | 2 |
 | Weighted Moving Average | 2 | 2 | 2 | 2 |
 
-![qemus/qemu-windows](./charts/forecast-qemus-qemu-windows.svg)
+![Growth forecast of qemus/qemu-windows from 2026-11-14 to 2026-12-12: 2 stars on 2026-11-14, projected to reach 2 by Linear Regression, 2 by Weighted Moving Average](./charts/forecast-qemus-qemu-windows.svg)
 
 </details>
 
@@ -1142,7 +1142,7 @@
 | Linear Regression | 2 | 2 | 2 | 2 |
 | Weighted Moving Average | 2 | 2 | 2 | 2 |
 
-![qemus/virtio-drivers-windows](./charts/forecast-qemus-virtio-drivers-windows.svg)
+![Growth forecast of qemus/virtio-drivers-windows from 2026-11-14 to 2026-12-12: 2 stars on 2026-11-14, projected to reach 2 by Linear Regression, 2 by Weighted Moving Average](./charts/forecast-qemus-virtio-drivers-windows.svg)
 
 </details>
 
@@ -1156,7 +1156,7 @@
 | Linear Regression | 1 | 1 | 1 | 1 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
-![action-pack/bump](./charts/forecast-action-pack-bump.svg)
+![Growth forecast of action-pack/bump from 2026-11-14 to 2026-12-12: 1 stars on 2026-11-14, projected to reach 1 by Linear Regression, 1 by Weighted Moving Average](./charts/forecast-action-pack-bump.svg)
 
 </details>
 
@@ -1170,7 +1170,7 @@
 | Linear Regression | 1 | 1 | 1 | 1 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
-![action-pack/github-release](./charts/forecast-action-pack-github-release.svg)
+![Growth forecast of action-pack/github-release from 2026-11-14 to 2026-12-12: 1 stars on 2026-11-14, projected to reach 1 by Linear Regression, 1 by Weighted Moving Average](./charts/forecast-action-pack-github-release.svg)
 
 </details>
 
@@ -1184,7 +1184,7 @@
 | Linear Regression | 1 | 1 | 1 | 1 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
-![action-pack/send-mail](./charts/forecast-action-pack-send-mail.svg)
+![Growth forecast of action-pack/send-mail from 2026-11-14 to 2026-12-12: 1 stars on 2026-11-14, projected to reach 1 by Linear Regression, 1 by Weighted Moving Average](./charts/forecast-action-pack-send-mail.svg)
 
 </details>
 
@@ -1198,7 +1198,7 @@
 | Linear Regression | 1 | 1 | 1 | 1 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
-![dobtc/btc-rpc-proxy](./charts/forecast-dobtc-btc-rpc-proxy.svg)
+![Growth forecast of dobtc/btc-rpc-proxy from 2026-11-14 to 2026-12-12: 1 stars on 2026-11-14, projected to reach 1 by Linear Regression, 1 by Weighted Moving Average](./charts/forecast-dobtc-btc-rpc-proxy.svg)
 
 </details>
 
@@ -1212,7 +1212,7 @@
 | Linear Regression | 1 | 1 | 1 | 1 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
-![qemus/qemu-render](./charts/forecast-qemus-qemu-render.svg)
+![Growth forecast of qemus/qemu-render from 2026-11-14 to 2026-12-12: 1 stars on 2026-11-14, projected to reach 1 by Linear Regression, 1 by Weighted Moving Average](./charts/forecast-qemus-qemu-render.svg)
 
 </details>
 
@@ -1226,7 +1226,7 @@
 | Linear Regression | 1 | 1 | 1 | 1 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
-![qemus/udfread](./charts/forecast-qemus-udfread.svg)
+![Growth forecast of qemus/udfread from 2026-11-14 to 2026-12-12: 1 stars on 2026-11-14, projected to reach 1 by Linear Regression, 1 by Weighted Moving Average](./charts/forecast-qemus-udfread.svg)
 
 </details>
 
@@ -1240,12 +1240,12 @@
 | Linear Regression | 1 | 1 | 1 | 1 |
 | Weighted Moving Average | 1 | 1 | 1 | 1 |
 
-![qemus/websocketd](./charts/forecast-qemus-websocketd.svg)
+![Growth forecast of qemus/websocketd from 2026-11-14 to 2026-12-12: 1 stars on 2026-11-14, projected to reach 1 by Linear Regression, 1 by Weighted Moving Average](./charts/forecast-qemus-websocketd.svg)
 
 </details>
 
 ---
-*Generated by [GitHub Star Tracker](https://github.com/fbuireu/github-star-tracker) on 2026-11-13T04:56:15.239Z*
+*Generated by [GitHub Star Tracker](https://github.com/fbuireu/github-star-tracker) on 2026-11-14T04:49:29.225Z*
 <div align="center">
 
 *Made with 🤘 by [Ferran Buireu](https://github.com/fbuireu)*

@@ -1,20 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" role="img">
+  <title>Star history of action-pack/valid-xml from 2024-05-24 to 2026-11-14: 1 to 3 stars</title>
   <style>
-    @keyframes drawLine {
-      to { stroke-dashoffset: 0; }
-    }
-    @keyframes fadeInPoint {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-    .data-line-0 {
-      stroke-dasharray: 1341;
-      stroke-dashoffset: 1341;
-      animation: drawLine 2s ease-out forwards;
-    }
-    .data-point {
-      opacity: 0;
-      animation: fadeInPoint 0.5s ease-out forwards;
+    @media (prefers-reduced-motion: no-preference) {
+      @keyframes drawLine {
+        to { stroke-dashoffset: 0; }
+      }
+      @keyframes fadeInPoint {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      .data-line-0 {
+        stroke-dasharray: 1341;
+        stroke-dashoffset: 1341;
+        animation: drawLine 2s ease-out forwards;
+      }
+      .data-point {
+        opacity: 0;
+        animation: fadeInPoint 0.5s ease-out forwards;
+      }
     }
     .chart-bg { fill: #fff; }
     .chart-text { fill: #24292e; }
