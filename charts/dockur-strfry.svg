@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" role="img">
-  <title>Star history of dockur/strfry from 2023-09-02 to 2026-11-21: 1 to 22 stars</title>
+  <title>Star history of dockur/strfry from 2023-09-02 to 2026-11-22: 1 to 22 stars</title>
   <style>
     @media (prefers-reduced-motion: no-preference) {
       @keyframes drawLine {
@@ -55,8 +55,8 @@
   <g class="x-axis">
     <text x="60" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2023</text>
     <text x="133.44827586206895" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2024</text>
-    <text x="378.2758620689655" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2025</text>
-    <text x="598.6206896551724" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2026</text>
+    <text x="353.7931034482759" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2025</text>
+    <text x="574.1379310344828" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2026</text>
   </g>
   <line x1="770" y1="50" x2="770" y2="350" class="chart-axis" stroke-width="1" />
   <line x1="60" y1="350" x2="770" y2="350" class="chart-axis" stroke-width="1" />
