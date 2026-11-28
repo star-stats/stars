@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" role="img">
-  <title>Star history of action-pack/valid-xml from 2024-05-24 to 2026-11-27: 1 to 3 stars</title>
+  <title>Star history of action-pack/valid-xml from 2024-05-24 to 2026-11-28: 1 to 3 stars</title>
   <style>
     @media (prefers-reduced-motion: no-preference) {
       @keyframes drawLine {
@@ -52,7 +52,7 @@
   </g>
   <g class="x-axis">
     <text x="60" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2024</text>
-    <text x="255.86206896551724" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2025</text>
+    <text x="231.3793103448276" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2025</text>
     <text x="525.1724137931035" y="370" text-anchor="middle" class="chart-muted" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2026</text>
   </g>
   <line x1="770" y1="50" x2="770" y2="350" class="chart-axis" stroke-width="1" />
